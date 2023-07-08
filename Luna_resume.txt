@@ -1,0 +1,58 @@
+Luna
+
+Professional Profile
+
+Luna is an accomplished professional with a diverse background and a strong focus on Artificial Intelligence. With a Bachelor of Science in Artificial Intelligence from Harvard University, Luna has acquired a wide range of skills and expertise throughout their career. 
+
+Education
+
+- Bachelor of Science in Artificial Intelligence, Harvard University
+
+Experience
+
+AWS Data Engineer, Another Company
+2019-01 to 2021-08
+
+- Developed expertise in Scala, Pentaho, SQL Anywhere, Airflow, and Lambda
+- Leveraged skills to effectively analyze and manage data for various projects
+
+Data Scientist, Amazon.com Inc.
+2016-11 to 2019-01
+
+- Acquired proficiency in Torch, NLTK, time series analysis, predictive modeling, and random forest
+- Applied these skills to drive data-driven insights and develop innovative solutions
+
+C++ Developer
+2022-02 to 2022-11
+
+- Demonstrated adaptability and perfected craft as a C++ developer
+- Key skills acquired include QT, Django, Tkinter, Perl, and NoSQL
+- Leveraged these skills to contribute to the development of robust applications
+
+Data Research Analyst, Another Firm
+2021-08 to 2022-02
+
+- Further enhanced skills in predictive modeling, spectral clustering, dimensional modeling, hypothesis testing, and Tableau
+- Utilized these skills to provide actionable insights and improve data analysis processes
+
+Skills
+
+- Programming Languages: Scala, Pentaho, SQL Anywhere, Airflow, Lambda, Torch, NLTK, C++, QT, Django, Tkinter, Perl, NoSQL
+- Data Analysis: Time Series Analysis, Predictive Modeling, Random Forest, Spectral Clustering, Dimensional Modeling, Hypothesis Testing, Tableau
+- Artificial Intelligence: Artificial Intelligence, Machine Learning, Natural Language Processing
+
+Additional Information
+
+- Strong problem-solving skills and ability to work under pressure
+- Excellent communication and collaboration skills
+- Strong attention to detail and commitment to delivering high-quality work
+
+Contact Information
+
+Phone: [Phone Number]
+Email: [Email Address]
+LinkedIn: [LinkedIn Profile]
+
+References
+
+Available upon request

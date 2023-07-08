@@ -1,0 +1,53 @@
+Liam 
+
+Contact Information: 
+Phone: XXX-XXX-XXXX 
+Email: liam@email.com 
+
+Summary: 
+Highly skilled professional with a diverse background in applied mathematics and extensive experience in various roles. Possesses a Ph.D. in Applied Mathematics from the University of Chicago. Demonstrates proficiency in NoSQL engineering, operations data analysis, Java development, and AI science. Strong expertise in various tools and technologies, including neo4j, data pipeline design, snowflake, rds, data mining, text mining, mathematics, tableau, time series analysis, looker, web scraping, git, cloud computing, AWS, and Ruby on Rails. 
+
+Experience: 
+
+NoSQL Engineer 
+Another Company (2000-11 to 2003-05) 
+
+- Developed skills in neo4j, data pipeline design, snowflake, rds, and data mining 
+- Contributed to the company's success by implementing efficient NoSQL solutions 
+- Collaborated with cross-functional teams to ensure the seamless integration of databases 
+
+Operations Data Analyst 
+Another Firm (2003-05 to 2006-11) 
+
+- Enhanced skills in text mining, mathematics, tableau, time series analysis, and looker 
+- Utilized advanced mathematical techniques to analyze operational data 
+- Generated insights and reports to support decision-making processes 
+
+Java Developer 
+(2006-11 to 2007-11) 
+
+- Showcased adaptability by successfully transitioning from data analysis to software development 
+- Gained proficiencies in web scraping, git, cloud computing, AWS, and Ruby on Rails 
+- Collaborated with a team of developers to create scalable and efficient Java applications 
+
+AI Scientist 
+Starbucks Corporation (1998-08 to 2000-11) 
+
+- Acquired expertise in probability, scikit-learn, statistical analysis, convolutional neural networks, and numpy 
+- Developed and implemented AI models to enhance business processes 
+- Contributed to the company's AI-driven initiatives, resulting in improved efficiency and customer satisfaction 
+
+Education: 
+
+Ph.D. in Applied Mathematics 
+University of Chicago 
+
+Skills: 
+
+- NoSQL (neo4j, data pipeline design, snowflake, rds, data mining) 
+- Operations Data Analysis (text mining, mathematics, tableau, time series analysis, looker) 
+- Java Development (web scraping, git, cloud computing, AWS, Ruby on Rails) 
+- AI Sciences (probability, scikit-learn, statistical analysis, convolutional neural networks, numpy) 
+
+References: 
+Available upon request
