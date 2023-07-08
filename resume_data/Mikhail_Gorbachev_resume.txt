@@ -1,0 +1,58 @@
+Mikhail Gorbachev
+
+Education:
+Bachelor of Science in Information Technology, University of Nairobi
+
+Professional Experience:
+Data Management Analyst, Verizon Communications Inc.
+2012-09 to 2014-08
+
+- Proficient in weka, power bi, tableau, r, and web scraping
+- Leveraged data management skills to improve efficiency and accuracy in data analysis
+
+Data Science Platform Engineer, GlaxoSmithKline plc
+2004-05 to 2008-11
+
+- Experienced in sas enterprise guide, mysql, data warehousing, glue, and rds
+- Played a vital role in developing and maintaining data science platforms
+
+Algorithm Developer, Tesla Inc.
+2013-06 to 2016-01
+
+- Developed algorithms using singular value decomposition, support vector machines, probability, matlab, and machine vision
+- Contributed to advancements in Tesla's technology and innovation
+
+Mobile Developer, Pfizer Inc.
+2021-04 to 2025-01
+
+- Demonstrated adaptability and perfected mobile development skills
+- Proficient in microservices, rabbitmq, cuda, expressjs, and web scraping
+- Collaborated with multidisciplinary teams to deliver high-quality mobile applications
+
+Skills:
+- Weka
+- Power BI
+- Tableau
+- R
+- Web scraping
+- SAS Enterprise Guide
+- MySQL
+- Data warehousing
+- AWS Glue
+- Amazon RDS
+- Singular value decomposition
+- Support vector machines
+- Probability
+- MATLAB
+- Machine vision
+- Microservices
+- RabbitMQ
+- CUDA
+- Express.js
+
+Contact Information:
+Phone: [Phone Number]
+Email: [Email Address]
+LinkedIn: [LinkedIn Profile]
+
+Note: References available upon request.

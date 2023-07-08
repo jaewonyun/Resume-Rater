@@ -1,0 +1,38 @@
+Andy Warhol
+
+Education:
+Master of Science in Mathematics, University of Pennsylvania
+
+Experience:
+AI Consultant, Unilever PLC, 1995-07 to 1996-02
+- Skills acquired: pandas, nltk, neural networks, torch, nltk
+
+Data Visualization Analyst, Boeing Company, 2001-05 to 2002-01
+- Skills enhanced: classification, agile, looker, sql, web scraping
+
+Data Ops Lead, Uber Technologies Inc., 1997-04 to 2000-09
+- Skills acquired: mariadb, pandas, sql/psm, data pipelines, redshift
+
+AI Consultant, The Home Depot Inc., 1990-07 to 1995-06
+- Skills acquired: pandas, nltk, neural networks, torch, nltk
+
+Skills:
+- Pandas
+- NLTK
+- Neural Networks
+- Torch
+- Classification
+- Agile
+- Looker
+- SQL
+- Web scraping
+- MariaDB
+- SQL/PSM
+- Data pipelines
+- Redshift
+
+Contact:
+Phone: [Phone Number]
+Email: [Email Address]
+
+Note: References available upon request.

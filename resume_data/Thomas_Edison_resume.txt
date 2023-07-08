@@ -1,0 +1,67 @@
+Thomas Edison
+
+Contact Information:
+Email: t.edison@email.com
+Phone: (555) 123-4567
+
+Summary:
+Highly skilled and accomplished professional with a strong background in data science. Possesses a Master of Science in Data Science from the University of Toronto. Proven expertise in ETL engineering, SQL data analysis, predictive modeling, and regression analysis. Adept at utilizing various tools and technologies, including Google BigQuery, Teradata, Unix, Docker, Looker, Tableau, Collaborative Filtering, R, Excel, Keras, Machine Vision, and Pandas.
+
+Education:
+Master of Science in Data Science
+University of Toronto, Toronto, Canada
+
+Professional Experience:
+ETL Engineer
+Square, Inc.
+December 2003 - January 2007
+
+- Acquired strong skills in Google BigQuery, Teradata, Unix, Docker, and data pipeline design.
+- Successfully executed ETL processes, ensuring efficient data extraction, transformation, and loading.
+- Collaborated with cross-functional teams to design and implement scalable data solutions.
+
+SQL Data Analyst
+The Walt Disney Company
+May 2007 - August 2008
+
+- Enhanced skills in Looker, Tableau, Collaborative Filtering, R, and Excel.
+- Analyzed complex datasets, performed data mining, and generated insights to drive business decisions.
+- Developed and maintained SQL queries, views, and reports for data analysis purposes.
+
+Data Science Specialist
+Pfizer Inc.
+January 2000 - December 2000
+
+- Acquired expertise in predictive modeling, Keras, regression analysis, machine vision, and Pandas.
+- Collaborated with a team of scientists to develop advanced machine learning models for drug discovery.
+- Conducted statistical analysis and implemented data-driven solutions to improve research processes.
+
+Data Science Specialist
+Marriott International, Inc.
+September 2017 - May 2019
+
+- Further developed skills in predictive modeling, Keras, regression analysis, machine vision, and Pandas.
+- Designed and implemented data models to support business objectives and improve operational efficiency.
+- Conducted predictive analysis to optimize marketing strategies and enhance customer experience.
+
+Skills:
+- ETL Engineering
+- Google BigQuery
+- Teradata
+- Unix
+- Docker
+- Data Pipeline Design
+- SQL
+- Looker
+- Tableau
+- Collaborative Filtering
+- R
+- Excel
+- Predictive Modeling
+- Keras
+- Regression Analysis
+- Machine Vision
+- Pandas
+
+References:
+Available upon request.

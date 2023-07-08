@@ -1,0 +1,100 @@
+Emily Brontë 
+
+Ph.D. in Computational Mathematics 
+
+Contact Information:
+Email: emilybronte@email.com
+Phone: 123-456-7890
+LinkedIn: linkedin.com/in/emilybronte
+
+Professional Summary:
+Experienced Artificial Intelligence Engineer and Data Ops Lead with a diverse background in computational mathematics. Skilled in deep learning, collaborative filtering, tensorflow, logistic regression, singular value decomposition, and data analysis. Proven track record of successfully implementing AI solutions and driving operational efficiency. 
+
+Education:
+Ph.D. in Computational Mathematics 
+University of British Columbia, Canada 
+
+Work Experience:
+Artificial Intelligence Engineer 
+AstraZeneca PLC 
+2019-09 - 2022-10 
+
+- Developed advanced deep learning algorithms to enhance drug discovery processes.
+- Applied collaborative filtering techniques to personalize patient treatment plans.
+- Utilized tensorflow for efficient model training and deployment.
+- Implemented logistic regression models for predictive analytics.
+- Conducted singular value decomposition to analyze large datasets.
+
+Data Reporting Analyst 
+Johnson & Johnson 
+2009-05 - 2011-12 
+
+- Generated comprehensive data reports using cognos.
+- Applied predictive modeling techniques to forecast sales trends.
+- Conducted time series analysis to identify patterns and optimize inventory management.
+- Utilized kibana for data visualization and analysis.
+- Implemented dimensionality reduction methods to improve data efficiency.
+
+Artificial Intelligence Engineer 
+The Coca-Cola Company 
+2018-04 - 2019-09 
+
+- Leveraged deep learning techniques to optimize product recommendations for customers.
+- Collaborated with cross-functional teams to develop tensorflow-based AI solutions.
+- Applied logistic regression for customer segmentation and targeting.
+- Utilized singular value decomposition for dimensionality reduction and feature extraction.
+
+Data Ops Lead 
+The Kraft Heinz Company 
+1994-03 - 1998-07 
+
+- Designed and implemented scalable data pipelines for efficient data processing.
+- Managed elasticsearch databases for fast and reliable data retrieval.
+- Utilized google storage and google cloud spanner for secure data storage.
+- Led a team of data professionals to ensure smooth data operations.
+- Streamlined data pipeline design to improve overall efficiency.
+
+Data Ops Lead 
+GlaxoSmithKline plc 
+1995-05 - 1996-05 
+
+- Managed elasticsearch databases for efficient data storage and retrieval.
+- Utilized google storage and google cloud spanner for secure data management.
+- Designed and implemented scalable data pipelines for smooth operations.
+- Led a team of data professionals in optimizing data workflows.
+- Implemented scalable systems for improved data processing and analysis.
+
+Full Stack Developer 
+BP plc 
+2007-08 - 2010-09 
+
+- Developed robust applications using go, xml, kotlin, and spring framework.
+- Implemented backend systems for data management and analysis.
+- Collaborated with cross-functional teams to deliver efficient software solutions.
+- Demonstrated adaptability by quickly learning new technologies such as haskell.
+- Ensured high-quality code through rigorous testing and code reviews.
+
+Skills:
+- Deep Learning
+- Collaborative Filtering
+- Tensorflow
+- Logistic Regression
+- Singular Value Decomposition
+- Cognos
+- Predictive Modeling
+- Time Series Analysis
+- Kibana
+- Dimensionality Reduction
+- Elasticsearch
+- Google Storage
+- Google Cloud Spanner
+- Data Pipeline Design
+- Scalable Systems
+- Go
+- XML
+- Kotlin
+- Spring Framework
+- Haskell
+
+References:
+Available upon request

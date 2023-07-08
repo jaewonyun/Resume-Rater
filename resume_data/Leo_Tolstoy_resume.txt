@@ -1,0 +1,67 @@
+Leo Tolstoy
+B.S. Computer Science
+Email: leo.tolstoy@email.com
+Phone: (555) 123-4567
+LinkedIn: www.linkedin.com/in/leotolstoy
+
+Summary
+Results-driven professional with a Bachelor of Science in Computer Science from Harvard University and a diverse background in statistical modeling and data processing. Skilled in natural language processing, hypothesis testing, mapreduce, and various data analysis tools. Demonstrated expertise in Power BI, MongoDB, Pandas, and Google Storage. Proven ability to effectively analyze data and provide valuable insights to drive business decisions. Strong problem-solving skills with a keen attention to detail. Excellent communication and collaboration abilities. Committed to continuous learning and expanding technical skills.
+
+Work Experience
+Statistical Modeler, The Home Depot Inc.
+- 2000-11 to 2005-04
+- Utilized natural language processing (NLP) techniques to develop statistical models.
+- Applied hypothesis testing to evaluate model accuracy and effectiveness.
+- Collaborated with cross-functional teams to deliver data-driven insights and recommendations.
+- Demonstrated proficiency in mapreduce and NLP algorithms.
+
+Data Processing Engineer, Zoom Video Communications, Inc.
+- 2007-08 to 2009-01
+- Optimized data processing pipelines to enhance performance using tools such as Power BI.
+- Implemented and maintained MongoDB databases for efficient data storage and retrieval.
+- Utilized Pandas for data manipulation and analysis.
+- Managed large-scale datasets on Google Storage.
+
+Statistical Modeler, Rolls-Royce Holdings plc
+- 1994-04 to 1996-01
+- Developed statistical models using NLP techniques to improve data analysis.
+- Conducted hypothesis testing to evaluate model accuracy and optimize performance.
+- Collaborated with engineers to integrate models into production systems.
+- Acquired knowledge in mapreduce and advanced NLP algorithms.
+
+Data Systems Analyst, Intel Corporation
+- 2006-12 to 2010-04
+- Utilized Excel and Looker to analyze and visualize complex data sets.
+- Developed reports and dashboards using Cognos for data-driven decision-making.
+- Employed tidyverse tools for data manipulation and cleaning.
+- Leveraged Google Analytics to interpret website performance and user behavior data.
+
+Data Processing Engineer, United Parcel Service, Inc.
+- 2022-03 to 2025-10
+- Optimized data processing workflows to enhance performance using Power BI and MongoDB.
+- Utilized Pandas for data manipulation and analysis.
+- Managed and maintained large-scale datasets on Google Storage.
+- Conducted performance tuning to improve data processing efficiency.
+
+Education
+Bachelor of Science in Computer Science, Harvard University
+
+Skills
+- Statistical Modeling
+- Natural Language Processing
+- Hypothesis Testing
+- Mapreduce
+- NLP Algorithms
+- Power BI
+- Performance Tuning
+- MongoDB
+- Pandas
+- Google Storage
+- Excel
+- Looker
+- Cognos
+- Tidyverse
+- Google Analytics
+
+References
+Available upon request

@@ -1,0 +1,73 @@
+FIDEL CASTRO
+
+Email: fcastro@email.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/fidelcastro
+
+SUMMARY
+
+Results-oriented professional with a diverse background in experimental physics and extensive experience in data analysis, integration, and software engineering. Possesses a Master of Science in Experimental Physics from the University of California, Davis. Skilled in a wide range of tools and frameworks, including mapreduce, statistical analysis, NLP, predictive modeling, NLTK, Kubernetes, CloudWatch, Redshift, Google Cloud Dataflow, SQL/PSM, Selenium, Android app development, Dask, GraphQL, PyQT, Tableau, Scrum, Spotfire, Looker, and Agile. A detail-oriented individual who thrives in challenging environments and adapts quickly to new technologies.
+
+EDUCATION
+
+Master of Science in Experimental Physics
+University of California, Davis | Davis, CA | Graduated: 2009
+
+PROFESSIONAL EXPERIENCE
+
+Research Scientist | Zoom Video Communications, Inc. | 2009-11 to 2014-02
+- Conducted in-depth statistical analysis using mapreduce and NLP techniques to extract insights from large datasets.
+- Developed predictive models to identify patterns and trends for improved business decision-making.
+- Collaborated with cross-functional teams to optimize data collection and analysis processes.
+- Leveraged Python and NLTK for natural language processing tasks.
+
+Data Integration Architect | Nike Inc. | 2000-08 to 2004-07
+- Designed and implemented data integration solutions using Kubernetes and CloudWatch.
+- Utilized Redshift and Google Cloud Dataflow to streamline data pipelines and improve data quality.
+- Developed SQL/PSM scripts for efficient data transformation and manipulation.
+- Collaborated with stakeholders to ensure data integrity and consistency across systems.
+
+Data Integration Architect | Microsoft Corporation | 2016-10 to 2017-10
+- Led data integration initiatives, utilizing Kubernetes and CloudWatch for scalable solutions.
+- Implemented Redshift and Google Cloud Dataflow to optimize data processing and storage.
+- Developed SQL/PSM scripts for efficient data integration and querying.
+- Worked closely with stakeholders to ensure seamless data flow between various systems.
+
+Python Engineer | Airbus SE | 2000-07 to 2001-12
+- Implemented automated testing using Selenium for web applications.
+- Created Android applications using Python and showcased adaptability.
+- Utilized Dask for distributed computing tasks.
+- Developed GraphQL APIs for improved data retrieval and manipulation.
+- Implemented PyQT for building functional and user-friendly UIs.
+
+Risk Data Analyst | Marriott International, Inc. | 2016-05 to 2021-04
+- Utilized Tableau to create data visualizations and reports for risk analysis.
+- Worked in Agile and Scrum methodologies to efficiently manage project deliverables.
+- Leveraged Spotfire for data exploration and analysis.
+- Collaborated with cross-functional teams to implement Looker for self-service analytics.
+
+SKILLS
+
+- Data Analysis and Modeling
+- Statistical Analysis
+- MapReduce
+- NLP
+- Predictive Modeling
+- NLTK
+- Kubernetes
+- CloudWatch
+- Redshift
+- Google Cloud Dataflow
+- SQL/PSM
+- Selenium
+- Android App Development
+- Dask
+- GraphQL
+- PyQT
+- Tableau
+- Scrum
+- Spotfire
+- Looker
+- Agile
+
+ADDITIONAL INFORMATION
+
+Languages: English (Fluent), Spanish (Fluent) | Interests: Data Science, Artificial Intelligence, Physics

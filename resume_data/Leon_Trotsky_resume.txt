@@ -1,0 +1,70 @@
+Leon Trotsky
+Data Scientist | ETL Developer | JavaScript Developer
+
+Contact Information:
+Phone: xxx-xxx-xxxx
+Email: trotsky.leon@email.com
+LinkedIn: linkedin.com/in/leon-trotsky
+Location: Sydney, Australia
+
+Summary:
+Highly skilled and versatile professional with a diverse background in data science, ETL development, and JavaScript development. Strong expertise in regression analysis, mapreduce, keras, dimensionality reduction, NLP, MongoDB, database design, data factory, cloud computing, data munging, and various programming languages. Possesses a Master of Science in Information Technology from the University of Sydney.
+
+Education:
+Master of Science in Information Technology
+University of Sydney, Sydney, Australia
+
+Skills:
+- Regression Analysis
+- Mapreduce
+- Keras
+- Dimensionality Reduction
+- NLP
+- MongoDB
+- Database Design
+- Data Factory
+- Cloud Computing
+- Data Munging
+- Laravel
+- Go
+- Node.js
+- Unix
+- Ruby on Rails
+
+Experience:
+
+Data Science | SAP SE | 2004-04 to 2005-04
+- Utilized regression analysis, mapreduce, keras, dimensionality reduction, and NLP techniques to analyze and interpret data.
+- Contributed to the development of data-driven insights for decision-making processes.
+
+ETL Developer | Hyundai Motor Company | 1997-04 to 1999-07
+- Designed and maintained databases, performed data extraction, transformation, and loading tasks.
+- Implemented MongoDB, database design, data factory, cloud computing, and data munging techniques for efficient data processing.
+
+Data Science | Alibaba Group Holding Limited | 2017-06 to 2017-12
+- Conducted regression analysis, mapreduce, keras, dimensionality reduction, and NLP methods to extract valuable patterns from data.
+- Generated actionable insights to support business strategies and optimization initiatives.
+
+JavaScript Developer | The Walt Disney Company | 2004-11 to 2008-12
+- Expertly developed JavaScript applications using Laravel, Go, Node.js, Unix, and Ruby on Rails.
+- Adapted to emerging technologies and efficiently delivered high-quality solutions.
+
+ETL Developer | Diageo plc | 2006-05 to 2010-05
+- Implemented MongoDB, database design, data factory, cloud computing, and data munging techniques for flawless data handling.
+- Collaborated with cross-functional teams to streamline data processes and enhance system efficiency.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+Certifications:
+- Certification in Data Science (2017)
+- Certification in ETL Development (2006)
+
+Projects:
+- Developed a predictive model using regression analysis, reducing customer churn rate by 20%.
+- Designed and implemented an ETL pipeline, enhancing data processing speed by 30%.
+- Created a sentiment analysis algorithm using NLP techniques, improving customer satisfaction monitoring.
+
+References:
+Available upon request

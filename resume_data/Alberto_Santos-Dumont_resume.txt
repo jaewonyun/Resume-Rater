@@ -1,0 +1,59 @@
+Alberto Santos-Dumont
+
+Master of Science in Statistics
+
+Email: [Email Address]
+Phone: [Phone Number]
+LinkedIn: [LinkedIn URL]
+
+Summary:
+Analytical and versatile professional with a Master of Science in Statistics and a diverse background in data development and machine learning. Skilled in various data management tools and languages, including cypher query language, Pig, Talend, and Google Cloud Dataflow. Experienced in predictive modeling, text mining, regression analysis, spotfire, and web scraping. Proficient in mathematics, probability, machine vision, dimensionality reduction, and time series analysis. Committed to delivering data-driven insights and improving business intelligence.
+
+Experience:
+
+Data Developer, Airbus SE, 2001-08 - 2005-09
+- Managed data and utilized various tools and languages such as the cypher query language, Pig, Talend, and Google Cloud Dataflow.
+- Developed efficient data management systems and processes.
+
+Data Developer, BlackRock, Inc., 2017-07 - 2020-04
+- Implemented data management strategies using cypher query language, Pig, Talend, and Google Cloud Dataflow.
+- Contributed to improving data quality and accessibility within the organization.
+
+Entry-Level Data Analyst, LVMH Moët Hennessy Louis Vuitton SE, 1996-01 - 1998-02
+- Enhanced skills in predictive modeling, text mining, regression analysis, spotfire, and web scraping.
+- Produced accurate and actionable insights through data analysis.
+
+Machine Learning Specialist, AT&T Inc., 1999-08 - 2002-11
+- Applied mathematical and probability concepts to develop machine vision algorithms.
+- Conducted dimensionality reduction and time series analysis for improved accuracy.
+
+Machine Learning Specialist, Alibaba Group Holding Limited, 2011-10 - 2014-08
+- Implemented mathematical models and probability theory to enhance machine vision capabilities.
+- Leveraged dimensionality reduction and time series analysis techniques for optimal results.
+
+Education:
+
+Master of Science in Statistics, University of Washington
+- Developed strong foundation in statistical methodologies.
+- Explored advanced topics in data analysis and modeling.
+
+Skills:
+- Statistical Analysis
+- Data Management
+- Predictive Modeling
+- Text Mining
+- Regression Analysis
+- Spotfire
+- Web Scraping
+- Mathematics
+- Probability
+- Machine Vision
+- Dimensionality Reduction
+- Time Series Analysis
+- Cypher Query Language
+- Pig
+- Talend
+- Google Cloud Dataflow
+
+References:
+Available upon request

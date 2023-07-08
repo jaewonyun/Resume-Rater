@@ -1,0 +1,58 @@
+JOHN LENNON
+
+Professional Summary
+Diverse professional with a background in Nuclear Physics and extensive experience in various industries. Skilled in AI consulting, Embedded Software Engineering, and ETL Development. Proven adaptability and ability to acquire new skills quickly. 
+
+Education
+Bachelor of Science in Nuclear Physics, University of Chicago
+
+Experience
+AI Consultant, Qualcomm Inc. (1997-11 to 1998-05)
+- Acquired skills in logistic regression, feature engineering, pytorch, scikit-learn, and regression analysis.
+
+Embedded Software Engineer, AT&T Inc. (1997-02 to 2001-12)
+- Mastered skills in Laravel, webpack, NoSQL, Transact-SQL, and Pygame.
+
+ETL Developer, Visa Inc. (2019-01 to 2022-06)
+- Developed expertise in PL/SQL, Unix, Data Lake, Oracle, and Pentaho.
+
+ETL Developer, BP plc (2018-06 to 2021-06)
+- Gained experience in PL/SQL, Unix, Data Lake, Oracle, and Pentaho.
+
+AI Consultant, Chevron Corporation (2008-06 to 2012-03)
+- Developed skills in logistic regression, feature engineering, pytorch, scikit-learn, and regression analysis.
+
+Data Reporting Analyst, Walmart Inc. (2000-09 to 2002-05)
+- Enhanced skills in web scraping, dimensionality reduction, Scrum, Splunk, and Cognos.
+
+Skills
+- AI Consulting
+- Embedded Software Engineering
+- ETL Development
+- Logistic Regression
+- Feature Engineering
+- Pytorch
+- Scikit-learn
+- Regression Analysis
+- Laravel
+- Webpack
+- NoSQL
+- Transact-SQL
+- Pygame
+- PL/SQL
+- Unix
+- Data Lake
+- Oracle
+- Pentaho
+- Web Scraping
+- Dimensionality Reduction
+- Scrum
+- Splunk
+- Cognos
+
+Contact Information
+Phone: [Phone Number]
+Email: [Email Address]
+LinkedIn: [LinkedIn Profile]
+
+References available upon request.

@@ -1,0 +1,54 @@
+Frederick Douglass
+
+Education: 
+Master of Science in Actuarial Science from University of Wisconsin-Madison
+
+Experience:
+
+Data Processing Engineer, Qualcomm Inc.
+November 2020 - November 2024
+- Developed expertise in scala, oracle, data lake analytics, relational databases, and hbase.
+
+AI Scientist, Berkshire Hathaway Inc.
+July 1991 - March 1992
+- Acquired skills in clustering, nltk, matlab, random forest, and support vector machines.
+
+Application Developer, Walmart Inc.
+September 1997 - May 2001
+- Demonstrated adaptability and perfected skills in kotlin, object-oriented abap, spring, tableau, and fiori/ui5.
+
+Data Processing Engineer, Bristol Myers Squibb Company
+January 2001 - April 2002
+- Gained proficiency in scala, oracle, data lake analytics, relational databases, and hbase.
+
+Skills:
+- Actuarial Science
+- Scala
+- Oracle
+- Data Lake Analytics
+- Relational Databases
+- HBase
+- Clustering
+- NLTK
+- MATLAB
+- Random Forest
+- Support Vector Machines
+- Kotlin
+- Object-Oriented ABAP
+- Spring
+- Tableau
+- Fiori/UI5
+
+Additional Information:
+- Professional with a diverse background and experience in various industries.
+- Adaptable and quick to learn new skills.
+- Strong problem-solving and analytical abilities.
+- Excellent communication and teamwork skills.
+
+Contact Information:
+Email: [email protected]
+Phone: (123) 456-7890
+LinkedIn: www.linkedin.com/in/frederickdouglass
+
+References:
+Available upon request

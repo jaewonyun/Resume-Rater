@@ -1,0 +1,77 @@
+Walt Disney
+
+Bachelor of Science in Artificial Intelligence - University of Washington
+
+Contact Information:
+Email: walt.disney@email.com
+Phone: (123) 456-7890
+LinkedIn: linkedin.com/in/waltdisney
+
+Summary:
+Highly skilled and adaptable professional with a diverse background in strategic data analysis, data integration architecture, and PHP development. Proficient in a wide range of tools and technologies such as artificial intelligence, cloud computing, web scraping, and deep learning. Demonstrates a strong ability to enhance processes, solve complex problems, and drive positive outcomes. Eager to leverage skills and experience to contribute to a dynamic organization.
+
+Skills:
+- Spectral Clustering
+- Splunk
+- Kibana
+- Web Scraping
+- Google Analytics
+- Cloud Computing
+- Knime
+- Pandas
+- Yarn
+- Glue
+- Haskell
+- Linux
+- RDBMS
+- Vue.js
+- Docker
+- PyTorch
+- Matplotlib
+- MapReduce
+- Clustering
+- Deep Learning
+
+Experience:
+
+Strategic Data Analyst - Marriott International, Inc.
+1999-01 to 2002-01
+- Applied spectral clustering techniques to analyze and derive insights from large datasets.
+- Utilized tools like Splunk, Kibana, and web scraping to gather and process data.
+- Implemented Google Analytics to monitor website performance and optimize marketing strategies.
+
+Data Integration Architect - Airbus SE
+2015-04 to 2017-12
+- Designed and implemented cloud computing solutions for seamless data integration.
+- Employed Knime and Pandas to streamline data processing pipelines.
+- Utilized tools like Yarn and Glue for efficient data management and integration.
+
+PHP Developer - The Walt Disney Company
+2015-08 to 2018-06
+- Developed robust and scalable PHP applications for various projects.
+- Demonstrated proficiency in Haskell, Linux, and relational databases (RDBMS).
+- Utilized Vue.js and Docker for efficient front-end development and containerization.
+
+Data Mining Engineer - Chevron Corporation
+2011-01 to 2015-01
+- Employed PyTorch and deep learning techniques to extract meaningful insights from large datasets.
+- Visualized data using Matplotlib to derive actionable insights.
+- Utilized MapReduce and clustering algorithms to analyze and categorize data effectively.
+
+Data Integration Architect - Amazon.com Inc.
+2022-01 to 2022-11
+- Designed and implemented cloud computing solutions for seamless data integration.
+- Utilized Knime, Pandas, and Glue for efficient data processing and integration.
+
+Education:
+
+Bachelor of Science in Artificial Intelligence - University of Washington
+
+Additional:
+
+Languages: English (Native), Spanish (Intermediate)
+Certifications: AWS Certified Solutions Architect
+Publications: "Advancements in Sentiment Analysis using Deep Learning" - AI Conference, 2016
+
+References:
+Available upon request

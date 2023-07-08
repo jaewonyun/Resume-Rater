@@ -1,0 +1,53 @@
+[Your Name]
+[Address]
+[City, State ZIP Code]
+[Phone Number]
+[Email Address]
+
+Objective:
+Seeking a challenging position as a Data Analytics Engineer where I can utilize my diverse background and strong technical skills to contribute to a dynamic organization.
+
+Education:
+Master of Science in Computer Engineering
+University of Illinois at Urbana-Champaign
+[Date of Graduation]
+
+Professional Experience:
+
+Data Analytics Engineer, Netflix Inc.
+[Start Date] - [End Date]
+- Utilized skills in airflow, hbase, etl frameworks, informatica, and SQL to analyze and evaluate large datasets.
+- Collaborated with cross-functional teams to extract valuable insights and drive data-driven decision-making.
+- Designed and implemented efficient data workflows to streamline data processing.
+
+JavaScript Developer, Prologis, Inc.
+[Start Date] - [End Date]
+- Demonstrated adaptability and perfected craft by utilizing skills in symfony, Haskell, fastapi, tkinter, and T-SQL.
+- Developed and maintained web-based applications to meet business requirements and enhance user experience.
+- Worked on team projects, fostering collaboration and ensuring project completion within tight deadlines.
+
+Database Analyst, Salesforce.com, Inc.
+[Start Date] - [End Date]
+- Enhanced skills in Google Analytics, random forest, Cognos, matplotlib, and Excel.
+- Conducted comprehensive analysis of database performance and suggested improvements to optimize data storage and retrieval.
+- Prepared reports and visualizations to effectively communicate trends and insights to stakeholders.
+
+Data Analytics Engineer, Siemens AG
+[Start Date] - [End Date]
+- Acquired skills in airflow, hbase, etl frameworks, informatica, and SQL to develop data-driven solutions.
+- Collaborated with cross-functional teams to implement efficient data processing pipelines and improve data quality.
+- Conducted data analysis and identified patterns to support decision-making processes.
+
+Skills:
+- Proficient in airflow, hbase, etl frameworks, informatica, SQL, symfony, Haskell, fastapi, tkinter, T-SQL, Google Analytics, random forest, Cognos, matplotlib, and Excel.
+- Strong problem-solving and analytical skills.
+- Excellent communication and teamwork abilities.
+- Detail-oriented and able to manage multiple projects simultaneously.
+
+Achievements:
+- Led a successful data migration project, resulting in seamless transition and improved data accessibility.
+- Received recognition for implementing a more efficient data processing pipeline, reducing processing time by 30%.
+- Developed a data visualization dashboard that provided actionable insights to stakeholders, resulting in improved decision-making.
+
+References:
+Available upon request

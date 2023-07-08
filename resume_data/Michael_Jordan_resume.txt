@@ -1,0 +1,73 @@
+MICHAEL JORDAN
+
+MSc in Computer Engineering | Deep Learning Engineer
+
+CONTACT INFORMATION
+Address: [Enter Your Address]
+Phone: [Enter Your Phone Number]
+Email: [Enter Your Email Address]
+LinkedIn: [Enter Your LinkedIn URL]
+
+SUMMARY
+Results-driven professional with a diverse background in computer engineering and deep learning. Strong expertise in predictive modeling, torch, pandas, large language models, text mining, weka, tableau, looker, matplotlib, impala, data factory, airflow, Kubernetes, and data migration. Possesses a master's degree in Computer Engineering from the University of British Columbia. Proven track record of successfully contributing to various projects and driving successful outcomes. 
+ 
+EDUCATION
+Master of Science in Computer Engineering
+University of British Columbia, Vancouver, Canada
+ 
+PROFESSIONAL EXPERIENCE
+Deep Learning Engineer | Intel Corporation
+2006-06 to 2007-02
+- Developed and implemented predictive models using torch and pandas for deep learning applications.
+- Leveraged large language models for data analysis and text mining.
+ 
+Deep Learning Engineer | Airbus SE
+2002-02 to 2002-08
+- Worked on deep learning projects, utilizing torch and pandas for predictive modeling.
+- Conducted text mining and utilized large language models for analysis purposes. 
+ 
+Marketing Data Analyst | Diageo plc
+2004-04 to 2006-11
+- Employed weka, tableau, and looker to analyze marketing data, providing valuable insights for decision-making.
+- Conducted text mining and utilized matplotlib for data visualization purposes.
+ 
+Database Engineer | PayPal Holdings, Inc.
+2015-05 to 2020-01
+- Developed and maintained databases using impala, data factory, and airflow technologies.
+- Orchestrated data migration processes and utilized Kubernetes for efficient data management.
+ 
+Database Engineer | Apple Inc.
+1996-03 to 1997-01
+- Led database development projects, implementing impala, data factory, and airflow technologies.
+- Successfully managed data migration processes to ensure smooth operations.
+ 
+SKILLS
+- Predictive Modeling
+- Torch
+- Pandas
+- Large Language Models
+- Text Mining
+- Weka
+- Tableau
+- Looker
+- Matplotlib
+- Impala
+- Data Factory
+- Airflow
+- Kubernetes
+- Data Migration
+ 
+ADDITIONAL SKILLS
+- Proficient in Python, Java, SQL, and C++
+- Strong problem-solving and analytical thinking abilities
+- Excellent communication and interpersonal skills
+
+CERTIFICATIONS
+- [List any relevant certifications]
+
+LANGUAGES
+- English (Fluent)
+- [List any other languages]
+
+REFERENCES
+Available upon request.

@@ -1,0 +1,72 @@
+MARTIN LUTHER KING JR.
+
+Professional with a Diverse Background
+Email: mlkjr@email.com | Phone: (123) 456-7890 | LinkedIn: www.linkedin.com/in/mlkjr
+
+EDUCATION
+Ph.D. in Software Engineering, University of Tokyo
+- Specialization in Agile Software Development and Text Mining
+- Spectral Clustering and R Data Analysis Techniques
+
+PROFESSIONAL EXPERIENCE
+
+SQL Data Analyst, Roche Holding AG, 1997-02 to 1999-08
+- Applied agile methodologies to efficiently analyze SQL data
+- Utilized text mining techniques to extract valuable insights
+- Implemented spectral clustering algorithms to identify patterns
+- Leveraged R for statistical analysis and visualization
+- Collaborated with cross-functional teams to drive data-driven decisions
+
+Computer Vision Engineer, BP plc, 2017-07 to 2020-01
+- Developed Natural Language Processing (NLP) models using nltk
+- Utilized deep learning frameworks and CUDA for computer vision tasks
+- Applied collaborative filtering techniques for personalized recommendations
+- Supported the development of innovative solutions for visual data analysis
+
+Java Developer, Procter & Gamble Co., 1990-02 to 1990-11
+- Contributed to the development of Java applications
+- Utilized Git for version control and collaboration
+- Leveraged Gradle for efficient project build management
+- Demonstrated proficiency in STL for optimized data structures
+- Gained experience in Hibernate and Objective-C
+
+Data Operations Engineer, The Coca-Cola Company, 2002-03 to 2002-10
+- Designed and implemented ETL processes for efficient data management
+- Leveraged Power BI for data visualization and reporting
+- Utilized Talend for seamless data integration and transformation
+- Managed data storage using Google Storage
+- Worked with Oracle databases for data querying and analysis
+
+Data Operations Engineer, Microsoft Corporation, 2019-11 to 2024-05
+- Implemented efficient ETL design methodologies for data pipelines
+- Utilized Power BI for creating interactive, insightful dashboards
+- Leveraged Talend for data integration, transformation, and migration
+- Managed large-scale data storage utilizing Google Storage
+- Conducted data analysis and reporting using Oracle databases
+
+SKILLS
+- Agile Software Development
+- Text Mining
+- Spectral Clustering
+- R
+- Clustering
+- Natural Language Processing (NLP)
+- Deep Learning
+- CUDA
+- Collaborative Filtering
+- Git
+- Gradle
+- STL
+- Hibernate
+- Objective-C
+- ETL Design
+- Power BI
+- Talend
+- Google Storage
+- Oracle
+
+LANGUAGE PROFICIENCY
+English (Fluent) | Japanese (Proficient)
+
+REFERENCES
+Available upon request

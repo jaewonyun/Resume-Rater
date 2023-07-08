@@ -1,0 +1,31 @@
+John D. Rockefeller 
+
+Bachelor of Science in Nuclear Physics | Massachusetts Institute of Technology 
+
+Skills: NLP, OpenCV, NLTK, CUDA, MapReduce, Dimensionality Reduction, Scrum, Random Forest, Classification, Spotfire, .NET, AWS, JavaFX, Clojure, Unity, Google Storage, Database Design, GCP, Google Cloud Dataflow, OLAP
+
+Experience:
+
+Natural Language Processing Engineer | Merck & Co., Inc. | 1994-01 to 1996-09
+- Developed expertise in natural language processing (NLP), OpenCV, NLTK, CUDA, and MapReduce
+- Contributed to the advancement of technological solutions in the pharmaceutical industry
+ 
+Financial Data Analyst | Lockheed Martin Corporation | 1996-01 to 1999-06
+- Utilized skills in dimensionality reduction, Scrum, random forest, classification, and Spotfire
+- Analyzed financial data to provide valuable insights and support decision-making
+ 
+.NET Developer | Volkswagen AG | 2011-02 to 2014-08
+- Demonstrated adaptability while honing skills in OpenCV, AWS, JavaFX, Clojure, and Unity
+- Developed innovative solutions and contributed to various software development projects
+ 
+Data Management Engineer | AstraZeneca PLC | 1991-02 to 1994-04
+- Acquired skills in Google Storage, database design, GCP, Google Cloud Dataflow, and OLAP
+- Managed and optimized data management processes for improved efficiency
+ 
+Education:
+
+Bachelor of Science in Nuclear Physics | Massachusetts Institute of Technology
+
+Summary:
+
+Highly skilled professional with a diverse background in natural language processing, financial data analysis, software development, and data management. Experienced in utilizing cutting-edge technologies and tools to drive innovation and streamline business processes. Strong adaptability and proven track record of success in various industries. Committed to continuous growth and learning in order to stay ahead of emerging trends and technologies.

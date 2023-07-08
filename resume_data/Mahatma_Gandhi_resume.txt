@@ -1,0 +1,69 @@
+Mahatma Gandhi
+
+Contact Information:
+Phone: 123-456-7890
+Email: gandhi.mahatma@email.com
+Address: 123 Main Street, City, State, ZIP
+
+Summary:
+Highly skilled and adaptable professional with a diverse background in Actuarial Science and extensive experience in Full Stack Engineering, DevOps, and Data Science. Committed to delivering exceptional results and utilizing technical expertise to drive innovation and solve complex problems. Demonstrated ability to collaborate effectively with cross-functional teams and deliver projects on time and within budget. Proven proficiency in a wide range of technologies and tools including Mockito, D3.js, Agile, Erlang, Jupyter Notebook, Databricks, Cassandra, CockroachDB, MPI, SQL Server, Clustering, Large Language Models, NLP, Random Forest, and Natural Language Processing.
+
+Education:
+Bachelor of Science in Actuarial Science
+University of Wisconsin-Madison
+Graduation: 2022
+
+Work Experience:
+Full Stack Engineer
+Visa Inc.
+December 2022 - December 2023
+
+- Perfected craft in Full Stack Engineering and demonstrated adaptability in a fast-paced environment.
+- Employed Mockito, D3.js, Agile, Erlang, and Jupyter Notebook to develop innovative solutions.
+- Collaborated with cross-functional teams to deliver high-quality software products.
+
+DevOps Engineer
+GlaxoSmithKline plc
+September 1991 - January 1996
+
+- Developed expertise in DevOps methodologies and tools including Databricks, Cassandra, CockroachDB, MPI, and SQL Server.
+- Implemented efficient and reliable systems to optimize operational processes.
+- Supported the development and deployment of applications, ensuring seamless integration and smooth operations.
+
+Data Scientist
+Amazon.com Inc.
+October 2019 - April 2024
+
+- Applied advanced techniques in Clustering, Large Language Models, NLP, Random Forest, and Natural Language Processing to extract insights from data.
+- Developed data-driven solutions to identify patterns and trends, enabling informed business decisions.
+- Collaborated with stakeholders to understand requirements and deliver actionable analytics.
+
+DevOps Engineer
+Unilever PLC
+July 2015 - April 2016
+
+- Utilized Databricks, Cassandra, CockroachDB, MPI, and SQL Server to optimize operational efficiency.
+- Created automated deployment processes to streamline workflows.
+- Collaborated with development teams to ensure scalable and reliable systems.
+
+Data Scientist
+eBay Inc.
+August 2002 - June 2003
+
+- Applied Clustering, Large Language Models, NLP, Random Forest, and Natural Language Processing techniques to enhance search algorithms and recommend relevant products.
+- Analyzed data to identify trends and patterns, optimizing user experience.
+- Collaborated with cross-functional teams to drive data-informed decision-making.
+
+Skills:
+- Programming Languages: Java, Python, R, SQL
+- Tools and Technologies: Mockito, D3.js, Agile, Erlang, Jupyter Notebook, Databricks, Cassandra, CockroachDB, MPI, SQL Server
+- Data Science: Clustering, Large Language Models, NLP, Random Forest, Natural Language Processing
+- Cloud Platforms: AWS, Azure
+- Version Control Systems: Git, SVN
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+
+References:
+Available upon request.

@@ -1,0 +1,79 @@
+Mao Zedong
+
+Ph.D. Astrophysics
+
+Contact Information:
+Email: maozedong@email.com
+Phone: (123) 456-7890
+
+Summary:
+Dedicated and versatile professional with a Ph.D. in Astrophysics from the University of Toronto. Expertise in data analysis and algorithm engineering with a proven track record of success. Skilled in various programming languages and possesses a diverse range of skills including random forest, excel, probability, text mining, predictive modeling, fiori/ui5, python, web services, openmp, posix threads, time series analysis, mathematics, ensemble modeling, matlab, machine vision, pl/sql, data warehousing, power bi, google bigtable, scala. Demonstrates adaptability and a strong ability to contribute effectively in various industries.
+
+Work Experience:
+Data Analysis, The Kraft Heinz Company
+January 2007 - November 2008
+
+- Leveraged skills in random forest, excel, probability, text mining, and predictive modeling to analyze data and provide valuable insights.
+- Collaborated with cross-functional teams to improve data analysis processes and enhance decision-making.
+- Maintained high standards of quality and accuracy in data gathering, cleaning, and analysis.
+
+Ruby Developer, Airbus SE
+October 2010 - September 2011
+
+- Demonstrated adaptability and acquired new skills in fiori/ui5, python, web services, openmp, and posix threads.
+- Developed and maintained Ruby applications, contributing to the success of various projects.
+- Collaborated with a team of developers to design and implement efficient solutions.
+
+Algorithm Engineer, McDonald’s Corporation
+May 2014 - June 2016
+
+- Utilized expertise in time series analysis, mathematics, ensemble modelling, matlab, and machine vision to develop algorithms and models for business optimization.
+- Conducted research and analysis to identify trends, patterns, and opportunities for improvement.
+- Worked closely with cross-functional teams to implement algorithmic solutions and improve operational efficiency.
+
+Data Systems Engineer, AT&T Inc.
+January 2003 - July 2006
+
+- Gained proficiency in pl/sql, data warehousing, power bi, google bigtable, and scala in a data systems engineering role.
+- Successfully designed, implemented, and maintained data systems to support business operations.
+- Collaborated with stakeholders to ensure data integrity, accessibility, and usability.
+
+Data Systems Engineer, Ford Motor Company
+August 1999 - April 2001
+
+- Acquired expertise in pl/sql, data warehousing, power bi, google bigtable, and scala while contributing to the success of the organization.
+- Designed and optimized data warehousing solutions for enhanced data storage and retrieval processes.
+- Collaborated with cross-functional teams to identify requirements and develop scalable data systems.
+
+Algorithm Engineer, Chevron Corporation
+October 1991 - August 1996
+
+- Developed algorithms and models using time series analysis, mathematics, ensemble modelling, matlab, and machine vision techniques.
+- Contributed to the improvement of processes and workflows through innovative algorithmic solutions.
+- Worked closely with researchers and engineers to test and refine algorithms for accuracy and efficiency.
+
+Education:
+Ph.D. in Astrophysics, University of Toronto
+
+Skills:
+- Data analysis
+- Random forest
+- Excel
+- Probability
+- Text mining
+- Predictive modeling
+- Fiori/UI5
+- Python
+- Web services
+- OpenMP
+- POSIX threads
+- Time series analysis
+- Mathematics
+- Ensemble modeling
+- Matlab
+- Machine vision
+- PL/SQL
+- Data warehousing
+- Power BI
+- Google Bigtable
+- Scala

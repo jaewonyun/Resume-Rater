@@ -1,0 +1,77 @@
+John F. Kennedy
+
+Email: johnfkennedy@email.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/johnfkennedy
+
+Professional Summary:
+Highly skilled and versatile professional with a diverse background in data engineering, software architecture, and quantitative research. Possesses a Ph.D. in Experimental Physics from Kyoto University. Proven track record of success in leading data engineering teams and implementing cutting-edge technologies. Demonstrates adaptability and proficiency in various programming languages and cloud platforms.
+
+Education:
+Doctor of Philosophy (Ph.D.) in Experimental Physics
+Kyoto University, Kyoto, Japan
+
+Skills:
+- Data lake analytics
+- Data management
+- Google Cloud Dataflow
+- MariaDB
+- Informatica
+- Vue.js
+- Kotlin
+- Azure
+- PyQt
+- Cloud computing
+- Text mining
+- Machine learning
+- Natural Language Toolkit (NLTK)
+- Feature engineering
+- Deep learning
+- SQL
+- Kibana
+- Mathematics
+- Splunk
+- Unsupervised learning
+
+Work Experience:
+Data Engineering Lead | Google LLC | 2013-01 to 2015-11
+- Led a team in executing data lake analytics and data management projects.
+- Leveraged Google Cloud Dataflow and MariaDB to optimize data workflows.
+- Utilized Informatica for efficient data integration and transformation processes.
+
+Software Architect | Marriott International, Inc. | 2021-11 to 2022-07
+- Perfected software architecture for Marriott International's systems.
+- Mastered Vue.js, Kotlin, and Azure to develop robust and scalable solutions.
+- Implemented PyQt for creating intuitive user interfaces.
+- Leveraged cloud computing technologies for efficient data storage and processing.
+
+Data Engineering Lead | Johnson & Johnson | 2020-09 to 2025-05
+- Successfully supervised data engineering initiatives, including data lake analytics and data management.
+- Utilized Google Cloud Dataflow and MariaDB for seamless data processing.
+- Employed Informatica in data integration and transformation activities.
+
+Quantitative Researcher | 3M Company | 1997-06 to 2000-01
+- Conducted text mining and machine learning research projects.
+- Leveraged NLTK for natural language processing tasks.
+- Applied feature engineering techniques for optimizing data models.
+- Utilized deep learning algorithms for advanced data analysis.
+
+Quantitative Researcher | Nestlé S.A. | 2017-03 to 2021-09
+- Conducted statistical analysis using text mining and machine learning techniques.
+- Leveraged NLTK for natural language processing tasks.
+- Applied feature engineering techniques to enhance data models.
+- Utilized deep learning algorithms for advanced analysis.
+
+Operations Data Analyst | Mastercard Incorporated | 1995-05 to 1999-09
+- Analyzed operational data using SQL queries.
+- Utilized Kibana and Splunk for comprehensive data visualization and analysis.
+- Applied mathematical principles for advanced data interpretation.
+- Employed unsupervised learning algorithms to discover patterns and insights.
+
+Publications:
+- Kennedy, J. F., & Smith, A. B. (2000). Text Mining: Advancements and Applications. Journal of Data Science, 15(2), 112-125.
+- Kennedy, J. F., & Johnson, C. D. (2017). Deep Learning for Feature Engineering. International Conference on Machine Learning Proceedings, 123-134.
+
+Languages:
+English (Fluent), Japanese (Intermediate)
+
+References:
+Available upon request.

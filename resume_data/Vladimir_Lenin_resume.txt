@@ -1,0 +1,84 @@
+Vladimir Lenin
+
+Email: vladimir.lenin@email.com
+Phone: (123) 456-7890
+LinkedIn: linkedin.com/in/vladimir-lenin
+GitHub: github.com/vladimir-l
+
+Summary
+
+Results-oriented professional with a diverse background in deep learning and cloud data engineering. Strong knowledge and experience in convolutional neural networks, large language models, NLP, collaborative filtering, Hadoop, Cassandra, schema design, Alteryx, and distributed systems. Holds a Master of Science in Deep Learning from the University of California, Davis. Proven ability to deliver projects on time and exceed expectations. Excellent communication and problem-solving skills.
+
+Education
+
+Master of Science in Deep Learning
+University of California, Davis
+Davis, CA
+Year of Graduation: 2022
+
+Professional Experience
+
+Deep Learning Engineer
+Boeing Company
+May 2022 - July 2023
+
+- Developed and implemented convolutional neural networks and deep learning models.
+- Utilized large language models and NLP techniques to enhance data analysis.
+- Collaborated with cross-functional teams to optimize collaborative filtering algorithms.
+- Contributed to the development of state-of-the-art deep learning solutions.
+
+Cloud Data Engineer
+Royal Dutch Shell plc
+October 2021 - December 2023
+
+- Designed and implemented scalable data processing systems using Hadoop and Cassandra.
+- Developed efficient schema designs to support data analysis and reporting.
+- Leveraged Alteryx for data integration and transformation.
+- Worked on large-scale distributed systems to manage and analyze vast amounts of data.
+
+Deep Learning Engineer
+The Kraft Heinz Company
+July 1999 - September 2000
+
+- Created and trained convolutional neural networks and deep learning models.
+- Applied large language models and NLP techniques for natural language processing tasks.
+- Collaborated with a team to optimize collaborative filtering algorithms.
+- Contributed to the improvement of data analysis and decision-making processes.
+
+Cloud Data Engineer
+Diageo plc
+December 2006 - April 2009
+
+- Implemented Hadoop and Cassandra to handle complex data processing and analytics tasks.
+- Designed and optimized schema for efficient data storage and retrieval.
+- Utilized Alteryx for data integration, blending, and automation.
+- Worked on distributed systems to ensure scalability and fault-tolerance.
+
+Skills
+
+- Programming Languages: Python, Java, SQL
+- Deep Learning: Convolutional Neural Networks, Large Language Models, NLP
+- Data Engineering: Hadoop, Cassandra, Alteryx, Distributed Systems
+- Database Management: MySQL, PostgreSQL, MongoDB
+- Cloud Platforms: AWS, Google Cloud Platform
+- Data Analysis: Pandas, NumPy, TensorFlow, PyTorch
+- Version Control: Git, GitHub
+- Project Management: Agile, Scrum
+
+Certifications
+
+- Deep Learning Certification - University of California, Davis
+
+Publications
+
+- Lenin, V., Smith, J., & Johnson, M. (2021). Enhancing Sentiment Analysis with Large Language Models. Journal of Natural Language Processing, 25(2), 123-145.
+
+Languages
+
+- English (Fluent)
+- Russian (Native)
+- Spanish (Basic)
+
+References
+
+Available upon request.

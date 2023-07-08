@@ -1,0 +1,52 @@
+Marlon Brando
+
+Email: marlonbrando@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/marlonbrando
+
+Professional Summary
+Results-oriented professional with a diverse background in computational mathematics, embedded software engineering, data development, risk analysis, and machine learning engineering. Possesses a Master of Science in Computational Mathematics from the University of Tokyo. Demonstrated adaptability in various roles, showcasing expertise in TypeScript, Tableau, Cloud Computing, GraphQL, HTML/CSS, PySpark, GCP, Athena, Data Pipeline Design, Airflow, R, Scrum, Collaborative Filtering, Web Scraping, Text Mining, Singular Value Decomposition, H2O, NLP, Bayesian Networks, and NLTK. A driven individual who combines technical expertise with effective problem-solving skills to deliver innovative solutions.
+
+Education
+Master of Science in Computational Mathematics
+University of Tokyo, Tokyo, Japan
+Graduated: 1998
+
+Experience
+
+Embedded Software Engineer | Prologis, Inc. | 1998-05 to 2001-06
+- Perfected craft as an embedded software engineer, contributing to the development of cutting-edge solutions.
+- Demonstrated adaptability by successfully working on diverse projects.
+- Acquired key skills in TypeScript, Tableau, Cloud Computing, GraphQL, HTML/CSS.
+
+Data Developer | Boeing Company | 2006-11 to 2009-07
+- Developed data solutions using PySpark, GCP, Athena, and contributed to data pipeline design.
+- Ensured the efficient processing and analysis of large datasets.
+- Collaborated with cross-functional teams to deliver high-quality results.
+
+Risk Data Analyst | Lilly Eli & Co | 2009-04 to 2011-09
+- Enhanced skills in R, Scrum, Collaborative Filtering, Web Scraping, Text Mining.
+- Analyzed risk data to identify patterns, trends, and insights.
+- Implemented innovative solutions to improve risk assessment processes.
+
+Machine Learning Engineer | Merck & Co., Inc. | 2023-03 to 2024-06
+- Utilized advanced techniques, including Singular Value Decomposition, H2O, NLP, Bayesian Networks, and NLTK.
+- Developed machine learning models to extract insights from complex data sets.
+- Collaborated with cross-functional teams to implement ML solutions for business challenges.
+
+Skills
+- Programming Languages: TypeScript, R, PySpark, SQL
+- Data Analysis/Visualization: Tableau, GraphQL, Athena, Airflow
+- Machine Learning: H2O, NLTK, Bayesian Networks, NLP, Scikit-learn
+- Cloud Computing: GCP, AWS
+- Web Scraping: Beautiful Soup, Selenium
+- Collaboration Tools: JIRA, Git, Agile/Scrum
+
+Projects
+- Developed a real-time data analytics dashboard using Tableau and GraphQL to visualize key metrics for various stakeholders.
+- Built a recommendation system using collaborative filtering and text mining techniques, improving customer engagement and satisfaction.
+- Implemented a fraud detection algorithm using machine learning and web scraping to identify potential fraudulent transactions.
+
+Languages
+- Fluent in English and Japanese
+
+References
+Available upon request

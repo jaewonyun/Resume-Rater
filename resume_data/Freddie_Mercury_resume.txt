@@ -1,0 +1,68 @@
+Freddie Mercury
+Data Insights Analyst | Data Integration Architect | Deep Learning Engineer | Back End Engineer
+
+Contact Information:
+Phone: (123) 456-7890
+Email: freddiemercury@email.com
+LinkedIn: linkedin.com/in/freddiemercury
+Address: 123 Main Street, City, State, Zip Code
+
+Summary:
+Analytical and adaptable professional with a diverse background in software engineering, data analysis, and deep learning. Skilled in statistical analysis, predictive modeling, data integration, and back end development. Strong expertise in Bayesian networks, NLP, matplotlib, and data munging. Proven abilities in collaborating with cross-functional teams to drive successful outcomes. 
+
+Education:
+Bachelor of Science in Software Engineering
+Stanford University, Stanford, CA
+Year of Graduation: 2002
+
+Work Experience:
+Data Insights Analyst
+Panasonic Corporation | 2002-03 to 2005-06
+- Enhanced skills in Bayesian networks, Power BI, statistical analysis, predictive modeling, and agile methodologies.
+- Contributed to data-driven insights and recommendations for business optimization.
+- Collaborated with teams to develop reports and visualizations using Power BI.
+
+Data Integration Architect
+Apple Inc. | 1996-06 to 1998-08
+- Acquired expertise in Azure, data munging, SQLite, Informatica, and data pipelines.
+- Designed and implemented data integration solutions to ensure seamless data flow.
+- Collaborated with cross-functional teams to identify and resolve data integration challenges.
+
+Deep Learning Engineer
+Pfizer Inc. | 2018-05 to 2021-02
+- Developed deep learning models for natural language processing (NLP) applications.
+- Applied Bayesian networks, matplotlib, classification techniques, and NLTK.
+- Collaborated with data scientists and researchers to drive innovation in healthcare solutions.
+
+Data Integration Architect
+Adobe Inc. | 2004-03 to 2006-03
+- Expanded knowledge in Azure, data munging, SQLite, Informatica, and data pipelines.
+- Designed and implemented data integration strategies to streamline data processes.
+- Worked closely with stakeholders to gather requirements and ensure data quality.
+
+Deep Learning Engineer
+DHL International GmbH | 2000-10 to 2004-06
+- Developed deep learning models using NLP techniques, Bayesian networks, matplotlib, classification, and NLTK.
+- Collaborated with a global team to improve logistics and supply chain systems.
+- Leveraged data analysis to optimize processes and improve efficiency.
+
+Back End Engineer
+Royal Dutch Shell plc | 2001-10 to 2004-07
+- Demonstrated adaptability and perfected skills in Clojure, HTML/CSS, Unity, jQuery, and ReactJS.
+- Designed and developed back end solutions to support various projects.
+- Collaborated with front end developers to ensure seamless integration and user experience.
+
+Skills:
+- Programming Languages: Python, SQL, Clojure, HTML/CSS
+- Data Analysis: Bayesian networks, statistical analysis, predictive modeling, classification
+- Data Integration: Azure, SQLite, Informatica, data pipelines
+- Deep Learning: Natural Language Processing (NLP), matplotlib, NLTK
+- Tools: Power BI, Unity, jQuery, ReactJS
+- Agile Methodologies, Data Munging, Data Visualization
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References:
+Available upon request

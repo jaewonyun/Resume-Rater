@@ -1,0 +1,53 @@
+Amadeo Avogadro
+amadeo.avogadro@email.com | (123) 456-7890 | LinkedIn: www.linkedin.com/in/amadeoavogadro
+
+Professional Summary
+Highly skilled and adaptable professional with a diverse background in software engineering, data systems engineering, and data science. Possesses a Master of Science in Computational Neuroscience from Harvard University. Demonstrates expertise in various technologies, methodologies, and tools, including html/css, spring, agile, rdbms, perl, Google Cloud Spanner, SAS, Spark, Databricks, Kubernetes, OpenCV, machine learning, convolutional neural networks, feature engineering, Keras, Cognos, random forest, SQL, predictive modeling, and Kibana.
+
+Education
+Master of Science in Computational Neuroscience
+Harvard University, Boston, MA
+
+Professional Experience
+Software Engineering Manager
+Intel Corporation | 2022-11 to 2023-06
+- Performed exceptionally as a Software Engineering Manager, showcasing adaptability and mastery in html/css, Spring, Agile, RDBMS, and Perl.
+- Led a team of software engineers to develop and deliver high-quality software products.
+- Collaborated with cross-functional teams to ensure efficient project execution and timely delivery.
+- Implemented Agile methodologies and promoted continuous improvement within the team.
+
+Data Systems Engineer
+Nike Inc. | 1999-12 to 2002-06
+- Gained valuable experience in Google Cloud Spanner, SAS, Spark, Databricks, and Kubernetes.
+- Designed, implemented, and maintained data systems to support company-wide data processing and analysis.
+- Developed data pipelines and optimized data workflows to improve efficiency and scalability.
+- Collaborated with data scientists and analysts to understand requirements and implement solutions.
+
+Data Science Engineer
+Diageo plc | 2010-12 to 2013-02
+Spotify Technology S.A. | 1999-07 to 2000-03
+- Acquired expertise in OpenCV, machine learning, convolutional neural networks, feature engineering, and Keras.
+- Developed and implemented data science models and algorithms to extract insights from complex datasets.
+- Conducted feature engineering and data preprocessing to improve model performance.
+- Collaborated with cross-functional teams to integrate data science solutions into production systems.
+
+Quantitative Data Analyst
+Bank of America Corporation | 2015-07 to 2016-07
+- Further enhanced skills in Cognos, random forest, SQL, predictive modeling, and Kibana.
+- Analyzed large datasets to identify trends, patterns, and business insights.
+- Developed predictive models and statistical analyses to support decision-making processes.
+- Created reports and visualizations to effectively communicate data-driven insights.
+
+Skills
+- Programming: HTML/CSS, Perl, Spring, Cognos, SQL
+- Technologies: Google Cloud Spanner, SAS, Spark, Databricks, Kubernetes, RDBMS
+- Data Science: Machine Learning, Convolutional Neural Networks, OpenCV, Keras, Feature Engineering, Predictive Modeling
+- Agile Methodologies
+- Data Analysis and Visualization: Kibana
+
+Languages
+- English (Fluent)
+- Spanish (Intermediate)
+
+References
+Available upon request

@@ -1,0 +1,64 @@
+Galileo Galilei
+
+Professional Profile
+
+Master of Science in Experimental Physics with a diverse background in JavaScript development, data schema management, predictive modeling, and database analysis. Demonstrated adaptability through various positions in leading technology, automotive, and consumer goods companies. Highly skilled in utilizing a wide range of programming languages, tools, and technologies to deliver innovative and data-driven solutions. Strong problem-solving abilities with proven expertise in optimizing data structures and driving business insights.
+
+Education
+
+Master of Science in Experimental Physics, University of California, Santa Barbara
+
+Professional Experience
+
+JavaScript Developer, Tencent Holdings Ltd.
+September 2014 - July 2016
+
+- Perfected craft as a JavaScript developer, leveraging skills in spring, rust, webpack, go, and erlang.
+- Contributed to the development of web applications, ensuring high-quality and efficient code.
+
+Data Schema Specialist, Salesforce.com, inc.
+December 2021 - January 2024
+
+- Acquired proficiency in managing data schemas using google cloud storage, lambda, spark, hadoop, and etl.
+- Collaborated with cross-functional teams to design and implement scalable data architectures.
+- Developed efficient ETL processes to extract, transform, and load data into the system.
+
+Predictive Modeler, Tesla Inc.
+March 1996 - June 1997
+
+- Applied pandas, deep learning, and dimensionality reduction techniques to build predictive models.
+- Implemented recommender systems and singular value decomposition algorithms for enhanced data analysis.
+- Assisted in optimizing production processes through data-driven insights.
+
+Database Analyst, Estée Lauder Companies Inc.
+September 2011 - July 2014
+
+- Expanded skills in dimensional modeling, scrum, looker, matplotlib, and tableau.
+- Analyzed large datasets to extract meaningful information for business stakeholders.
+- Generated visual reports and dashboards to communicate key findings effectively.
+
+Data Schema Specialist, Honda Motor Co., Ltd.
+October 2017 - March 2019
+
+- Managed data schemas utilizing google cloud storage, lambda, spark, hadoop, and etl.
+- Collaborated with stakeholders to design efficient data models to support business needs.
+- Implemented data governance policies to ensure data integrity and security.
+
+Predictive Modeler, Citigroup Inc.
+April 2018 - November 2019
+
+- Leveraged pandas, deep learning, dimensionality reduction, recommender systems, and singular value decomposition.
+- Developed predictive models to optimize risk assessment and improve decision-making processes.
+- Collaborated with teams to implement machine learning algorithms and validate model performance.
+
+Skills
+
+- Programming Languages: JavaScript, Rust, Go, Erlang, Python
+- Data Tools: Spring, Webpack, Google Cloud Storage, Lambda, Spark, Hadoop, ETL
+- Data Analysis: Pandas, Dimensional Modeling, Recommender Systems, Singular Value Decomposition
+- Visualization: Matplotlib, Tableau, Looker
+- Agile Methodologies: Scrum
+
+References
+
+Available upon request.

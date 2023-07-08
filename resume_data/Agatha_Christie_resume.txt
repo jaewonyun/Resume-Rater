@@ -1,0 +1,87 @@
+Agatha Christie
+
+Address: [Your Address]
+Phone: [Your Phone Number]
+Email: [Your Email]
+
+Objective:
+Astrophysicist with a diverse professional background seeking challenging opportunities in the field of data science, machine learning, and AI.
+
+Education:
+Master of Science in Astrophysics, University of Cape Town
+
+Experience:
+
+AI Specialist
+Ford Motor Company
+2000-04 to 2004-11
+
+- Developed expertise in natural language processing, time series analysis, machine vision, mathematics, and nltk.
+- Contributed to the development of AI technologies for autonomous vehicles.
+- Collaborated with cross-functional teams to implement AI solutions in various automotive systems.
+
+Data Integration Engineer
+3M Company
+2019-11 to 2024-04
+
+- Proficient in utilizing tools such as aurora, postgresql, sas, gcp, and data munging.
+- Developed data integration pipelines to ensure seamless data flow and improve data quality.
+- Implemented advanced data analytics techniques to uncover insights and drive business decisions.
+
+Supply Chain Data Analyst
+Exxon Mobil Corporation
+2014-01 to 2017-11
+
+- Applied spectral clustering, hypothesis testing, looker, kibana, and probability to optimize supply chain operations.
+- Generated actionable insights from large datasets to improve efficiency and reduce costs.
+- Collaborated with cross-functional teams to develop data-driven strategies for inventory management.
+
+Software Developer
+General Motors Company
+1999-02 to 2000-12
+
+- Proficient in building software applications using grunt, d3js, ruby on rails, posix threads, and gulp.
+- Developed innovative solutions to improve the performance and functionality of automotive software systems.
+- Adapted quickly to changing project requirements and demonstrated creativity in problem-solving.
+
+AI Specialist
+Abbott Laboratories
+2003-05 to 2004-02
+
+- Utilized skills in nltk, mathematics, natural language processing, time series analysis, and machine vision.
+- Developed AI-based solutions for healthcare applications.
+- Collaborated with a multidisciplinary team to develop innovative solutions and improve patient outcomes.
+
+Data Integration Engineer
+The Coca-Cola Company
+2001-02 to 2002-03
+
+- Proficient in data integration tools such as aurora, postgresql, sas, gcp, and data munging.
+- Developed data pipelines to extract, transform, and load data from various sources.
+- Implemented data quality measures and performed data analysis to support business decision-making.
+
+Skills:
+- Programming Languages: Python, Ruby, SQL, MATLAB
+- Machine Learning: TensorFlow, scikit-learn, Keras
+- Data Analysis: Pandas, NumPy, Tableau
+- Big Data Tools: Hadoop, Spark
+- Data Visualization: Matplotlib, D3.js, Tableau
+- Cloud Platforms: GCP, AWS
+- Databases: PostgreSQL, MySQL
+- Natural Language Processing
+- Time Series Analysis
+- Mathematics and Statistics
+- Spectral Clustering
+- Looker, Kibana
+- Probability and Hypothesis Testing
+
+Publications:
+- "Advancements in AI for Autonomous Vehicles," International Journal of Robotics and AI, 2005.
+
+Languages:
+- English (Fluent)
+- French (Intermediate)
+- German (Basic)
+
+References:
+Available upon request

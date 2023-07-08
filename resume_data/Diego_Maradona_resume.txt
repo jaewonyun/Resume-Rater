@@ -1,0 +1,62 @@
+Diego Maradona
+
+Contact Information:
+Phone: XXX-XXX-XXXX
+Email: diegomaradona@email.com
+Address: [Insert Address]
+
+Summary:
+Results-driven and highly skilled professional with a diverse background in Experimental Physics and Machine Learning Engineering. Possesses a Ph.D. in Experimental Physics from Seoul National University and proven expertise in developing and implementing advanced machine learning algorithms. Demonstrates proficiency in Theano, CUDA, neural networks, classification, and regression analysis. Experienced in streaming data engineering, with proficiency in Kinesis, Elasticsearch, ETL frameworks, CockroachDB, and RDS. Strong problem-solving abilities coupled with effective communication skills.
+
+Education:
+Doctor of Philosophy in Experimental Physics
+Seoul National University, Seoul, South Korea
+
+Professional Experience:
+
+Machine Learning Engineer
+Abbott Laboratories | 1990-03 to 1993-10
+- Developed machine learning algorithms utilizing Theano, CUDA, and neural networks.
+- Conducted classification and regression analysis to extract insights from data.
+- Contributed to the optimization of existing algorithms for enhanced performance.
+
+Streaming Data Engineer
+Roche Holding AG | 2005-12 to 2006-10
+- Utilized Kinesis, Elasticsearch, and ETL frameworks to process and analyze streaming data.
+- Designed and implemented data pipelines for efficient data ingestion and transformation.
+- Collaborated with cross-functional teams to ensure the robustness and scalability of the streaming data infrastructure.
+
+Machine Learning Engineer
+American Express Company | 2011-02 to 2015-11
+- Applied Theano, CUDA, and neural networks to develop innovative machine learning solutions.
+- Conducted classification and regression analysis for predictive modeling and anomaly detection.
+- Collaborated with data scientists and engineers to deploy machine learning models into production environments.
+
+Streaming Data Engineer
+Bank of America Corporation | 1993-01 to 1994-02
+- Implemented streaming data processing using Kinesis, Elasticsearch, and ETL frameworks.
+- Developed database systems utilizing CockroachDB and RDS for efficient data storage and retrieval.
+- Maintained data quality and ensured data consistency across various systems.
+
+Skills:
+- Machine Learning: Theano, CUDA, neural networks, classification, regression analysis
+- Streaming Data Engineering: Kinesis, Elasticsearch, ETL frameworks, CockroachDB, RDS
+- Programming Languages: Python, Java, C++
+- Data Analysis: SQL, R, MATLAB
+- Tools & Technologies: TensorFlow, PyTorch, AWS, Docker
+- Data Visualization: Tableau, matplotlib, Power BI
+
+Professional Certifications:
+- Certified Machine Learning Engineer
+- AWS Certified Big Data Specialty
+
+Publications:
+- [List any relevant publications or research papers]
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+- [List any additional languages]
+
+References:
+Available upon request.

@@ -1,0 +1,57 @@
+Princess Diana
+
+Master of Science in Computer Science
+
+Email: princessdiana@email.com  |  Phone: (123) 456-7890  |  LinkedIn: linkedin.com/in/princessdiana
+
+Summary:
+
+Highly skilled and adaptable professional with a diverse background in data intelligence analysis and software development. Strong expertise in various technologies including Google Analytics, Classification, Mathematics, Weka, Random Forest, FastAPI, Lambda, JavaFX, Tableau, R, NLP, Convolutional Neural Networks, Recommender Systems, Theano, Machine Vision, MPI, Impala, Google Cloud Spanner, PySpark, and Athena. Proven track record of excelling in challenging positions and delivering exceptional results. Thrives in dynamic environments and effectively collaborates with cross-functional teams to drive success.
+
+Professional Experience:
+
+Data Intelligence Analyst  |  LinkedIn Corporation | 2017-06 to 2022-01
+
+- Leveraged expertise in Google Analytics, Classification, Mathematics, Weka, and Random Forest to perform data intelligence analysis.
+- Successfully contributed to the enhancement of skills and provided valuable insights to support business decisions.
+
+Software Development Engineer  |  Boeing Company | 2020-06 to 2023-03
+
+- Demonstrated adaptability and mastered the use of FastAPI, Lambda, JavaFX, Tableau, and R in developing software solutions.
+- Consistently delivered high-quality code and contributed to the continuous improvement of development processes.
+
+AI Consultant  |  Chevron Corporation | 1991-09 to 1993-09
+
+- Acquired in-depth knowledge of NLP, Convolutional Neural Networks, Recommender Systems, Theano, and Machine Vision.
+- Consulted on AI projects, providing expert guidance and driving innovation in the company's technological advancements.
+
+Data Platform Engineer  |  IBM Corporation | 2016-01 to 2020-12
+
+- Developed proficiency in MPI, Impala, Google Cloud Spanner, PySpark, and Athena.
+- Contributed to the design and implementation of robust data platforms to enable efficient data processing and analysis.
+
+AI Consultant  |  NVIDIA Corporation | 2010-04 to 2012-02
+
+- Provided valuable insights and expertise in NLP, Convolutional Neural Networks, Recommender Systems, Theano, and Machine Vision.
+- Collaborated with clients to develop and implement cutting-edge AI solutions to address their business needs.
+
+Education:
+
+Master of Science in Computer Science  |  Northwestern University
+
+Skills:
+
+- Programming: Python, Java, R, Scala
+- Data Analysis: Google Analytics, Classification, Mathematics, Weka, Random Forest
+- Web Development: FastAPI, Lambda, JavaFX, Tableau
+- AI Technologies: NLP, Convolutional Neural Networks, Recommender Systems, Theano, Machine Vision
+- Big Data: MPI, Impala, Google Cloud Spanner, PySpark, Athena
+
+Languages:
+
+- English (Fluent)
+- Spanish (Intermediate)
+
+References:
+
+Available upon request

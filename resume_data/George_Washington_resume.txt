@@ -1,0 +1,90 @@
+George Washington
+Ph.D. in Theoretical Physics | Data Scientist | Data Infrastructure Engineer | Sales Data Analyst | Backend Engineer
+
+Contact Information:
+Phone: (123) 456-7890
+Email: gwashington@email.com
+LinkedIn: www.linkedin.com/in/gwashington
+
+Summary:
+Accomplished professional with a diverse background in data science, data infrastructure, sales analysis, and backend engineering. Holds a Ph.D. in Theoretical Physics from Cornell University. Demonstrated adaptability and a strong ability to acquire new skills throughout their career. Excels in collaborative environments and possesses expertise in various tools and technologies.
+
+Education:
+Doctor of Philosophy (Ph.D.) in Theoretical Physics (Cornell University, 1994)
+
+Skills:
+- Collaborative Filtering
+- Feature Engineering
+- Deep Learning
+- Natural Language Toolkit (NLTK)
+- CUDA
+- Google BigQuery
+- Cypher Query Language
+- Stata
+- SQLite
+- Google Cloud Storage
+- Statistical Analysis
+- Unsupervised Learning
+- Mathematics
+- WEKA
+- Dimensionality Reduction
+- OpenMP
+- RabbitMQ
+- Maven
+- Unity
+- CloudWatch
+
+Work Experience:
+Data Scientist (PayPal Holdings, Inc.)
+1994-05 to 1995-05
+- Developed collaborative filtering models to improve recommendation systems.
+- Applied feature engineering techniques to optimize data analysis processes.
+- Utilized deep learning algorithms for advanced data analysis and prediction.
+- Implemented natural language processing (NLP) using the NLTK library.
+- Utilized CUDA for GPU-accelerated data processing.
+
+Data Infrastructure Engineer (Volvo Group)
+2007-10 to 2008-09
+- Managed and optimized data storage and retrieval using Google BigQuery.
+- Developed and executed Cypher queries for efficient data processing and extraction.
+- Utilized Stata and SQLite for statistical analysis and data manipulation.
+- Leveraged Google Cloud Storage for scalable and reliable data storage.
+
+Sales Data Analyst (Twitter Inc.)
+1993-06 to 1997-08
+- Conducted statistical analysis of sales data to identify trends and patterns.
+- Applied unsupervised learning algorithms for customer segmentation.
+- Utilized mathematical models to forecast sales and optimize resource allocation.
+- Utilized WEKA for data mining and predictive modeling.
+- Implemented dimensionality reduction techniques to handle large datasets.
+
+Backend Engineer (SAP SE)
+2013-08 to 2015-04
+- Developed backend systems using openmp for parallel processing.
+- Utilized RabbitMQ for efficient message queuing and communication.
+- Managed project dependencies and built projects using Maven.
+- Integrated Unity framework for seamless application development.
+- Monitored and troubleshooted systems using CloudWatch.
+
+Data Scientist (Ford Motor Company)
+1993-07 to 1996-05
+- Developed collaborative filtering models to enhance customer satisfaction.
+- Applied feature engineering techniques to optimize data analysis processes.
+- Utilized deep learning algorithms for advanced pattern recognition.
+- Implemented NLP techniques using the NLTK library.
+- Utilized CUDA for GPU-accelerated data processing.
+
+Publications:
+- Washington, G. (1994). "Advancements in Theoretical Physics: A Comprehensive Review." Cornell University Press.
+
+Certifications:
+- Google BigQuery Certified Professional
+- Stata Certified Data Analysis Professional
+
+Languages:
+- English (Native)
+- French (Proficient)
+- Spanish (Intermediate)
+
+References:
+Available upon request

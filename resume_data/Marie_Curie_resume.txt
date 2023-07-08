@@ -1,0 +1,66 @@
+Marie Curie
+Data Scientist
+
+Contact Information:
+Email: marie.curie@email.com
+Phone: (123) 456-7890
+LinkedIn: www.linkedin.com/in/mariecurie
+
+Summary:
+Highly skilled and adaptable Data Scientist with a diverse background in various industries. Holds a Bachelor of Science in Data Science from the University of California, Davis. Experienced in data pipeline engineering, machine learning research, customer data analysis, and Android engineering. Demonstrated expertise in a range of skills including regression analysis, support vector machines, ensemble modeling, hypothesis testing, and dimensional modeling. Proficient in tools such as aurora, mysql, sqlite, Google Cloud Pub/Sub, Azure, Torch, Tableau, web scraping, RDBMS, Jupyter Notebook, Airflow, and ReactJS.
+
+Experience:
+Data Pipeline Engineer | BASF SE | 1999-05 to 2001-01
+- Acquired skills in aurora, MySQL, SQLite, Google Cloud Pub/Sub, and Azure.
+- Developed efficient data pipelines and maintained data quality.
+
+ML Researcher | SpaceX | 2010-04 to 2013-10
+- Conducted regression analysis, support vector machines, and ensemble modeling.
+- Utilized Torch for machine learning research and classification tasks.
+
+Data Pipeline Engineer | Visa Inc. | 1999-07 to 2000-03
+- Implemented data pipelines using aurora, MySQL, SQLite, Google Cloud Pub/Sub, and Azure.
+- Ensured seamless data integration and improved data accessibility.
+
+Customer Data Analyst | Tencent Holdings Ltd. | 2000-12 to 2005-06
+- Applied hypothesis testing and dimensional modeling for customer data analysis.
+- Utilized Tableau for data visualization and unsupervised learning techniques.
+- Employed web scraping for data acquisition and analysis.
+
+Android Engineer | Diageo plc | 1998-11 to 2001-10
+- Developed Android applications and implemented RDBMS for data storage.
+- Proficient in Jupyter Notebook, R, Airflow, and ReactJS.
+
+ML Researcher | Volkswagen AG | 2017-05 to 2021-08
+- Conducted regression analysis, support vector machines, and ensemble modeling.
+- Utilized Torch for machine learning research and classification tasks.
+
+Education:
+Bachelor of Science in Data Science | University of California, Davis
+
+Skills:
+- Regression Analysis
+- Support Vector Machines
+- Ensemble Modeling
+- Hypothesis Testing
+- Dimensional Modeling
+- Tableau
+- Unsupervised Learning
+- Web Scraping
+- Aurora
+- MySQL
+- SQLite
+- Google Cloud Pub/Sub
+- Azure
+- Torch
+- RDBMS
+- Jupyter Notebook
+- Airflow
+- ReactJS
+
+Languages:
+- English (Fluent)
+- French (Intermediate)
+
+References:
+Available upon request.

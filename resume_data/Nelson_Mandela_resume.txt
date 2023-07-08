@@ -1,0 +1,101 @@
+Nelson Mandela
+
+Contact Information:
+Phone: (XXX) XXX-XXXX
+Email: nelson.mandela@email.com
+LinkedIn: www.linkedin.com/in/nelsonmandela
+
+Summary:
+Results-driven professional with a diverse background and expertise in statistics, data development, and deep learning. Skilled in rest APIs, Jenkins, Unity, webpack, Transact-SQL, convolutional neural networks, mathematics, support vector machines, predictive modeling, mapreduce, solr, data pipelines, Google Cloud Spanner, cloud computing, Pig, tidyverse, Tableau, probability, and regression analysis. Proven adaptability in various roles, consistently delivering high-quality work. 
+
+Education:
+Bachelor of Science in Statistics
+University of Nairobi
+Graduated: 2006
+
+Experience:
+
+Senior Fullstack Developer
+Marriott International, Inc.
+September 2020 - August 2021
+
+- Developed and maintained REST APIs, ensuring efficient data transfer and functionality.
+- Utilized Jenkins for continuous integration and deployment process, improving efficiency and code quality.
+- Worked with Unity to create immersive and interactive user experiences.
+- Utilized webpack for optimizing and bundling web applications.
+- Utilized Transact-SQL for efficient database manipulation and querying.
+
+Deep Learning Engineer
+Hitachi Ltd.
+August 2007 - October 2009
+
+- Developed and implemented convolutional neural networks for image recognition tasks.
+- Applied mathematical concepts to optimize deep learning models.
+- Utilized support vector machines for classification tasks.
+- Created predictive models to forecast future trends.
+- Employed mapreduce for efficient processing of large-scale datasets.
+
+Data Developer
+Verizon Communications Inc.
+January 2010 - February 2012
+
+- Built data pipelines for efficient extraction, transformation, and loading of data.
+- Utilized Solr for high-performance search capabilities.
+- Worked with Google Cloud Spanner for scalable and reliable data storage.
+- Implemented cloud computing solutions to optimize data processing and analysis.
+- Utilized Pig for data analysis and transformation tasks.
+
+Deep Learning Engineer
+TotalEnergies SE
+January 2017 - January 2018
+
+- Developed and fine-tuned convolutional neural networks for image analysis tasks.
+- Applied mathematical concepts to improve model performance and accuracy.
+- Utilized support vector machines for classification and regression tasks.
+- Created predictive models for forecasting purposes.
+- Utilized mapreduce for efficient processing of large-scale datasets.
+
+Data Analytics Specialist
+The Walt Disney Company
+October 1996 - April 2000
+
+- Utilized the tidyverse package in R for efficient data manipulation and analysis.
+- Created insightful visualizations using Tableau to communicate data-driven insights.
+- Developed predictive models to identify trends and make informed business decisions.
+- Applied probability theory to statistical analysis.
+- Conducted regression analysis to uncover relationships between variables.
+
+Data Developer
+Volvo Group
+July 2022 - May 2026
+
+- Built data pipelines to automate data extraction, transformation, and loading processes.
+- Utilized Solr for effective search and retrieval of data.
+- Worked with Google Cloud Spanner for secure and scalable data storage.
+- Implemented cloud computing solutions to optimize data processing and analysis.
+- Utilized Pig for data processing and analysis tasks.
+
+Skills:
+- Rest APIs
+- Jenkins
+- Unity
+- Webpack
+- Transact-SQL
+- Convolutional Neural Networks
+- Mathematics
+- Support Vector Machines
+- Predictive Modeling
+- MapReduce
+- Solr
+- Data Pipelines
+- Google Cloud Spanner
+- Cloud Computing
+- Pig
+- Tidyverse
+- Tableau
+- Probability
+- Regression Analysis
+
+References available upon request.
+
+Note: Resume templates are subject to personal preference and industry standards. Feel free to modify the format and content as per your needs.

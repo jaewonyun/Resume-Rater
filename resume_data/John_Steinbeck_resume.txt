@@ -1,0 +1,48 @@
+John Steinbeck
+
+Contact Information:
+Email: johnsteinbeck@email.com
+Phone: 123-456-7890
+LinkedIn: linkedin.com/in/johnsteinbeck
+
+Summary:
+Professional with a diverse background in Artificial Intelligence. Holds a Master of Science in Artificial Intelligence from the University of Washington. Experienced in various positions, including Data Systems Engineer, Application Developer, and AI Engineer. Possesses a wide range of skills including SQL, KNIME, Informatica, TensorFlow, and natural language processing.
+
+Education:
+Master of Science in Artificial Intelligence, University of Washington
+
+Experience:
+Data Systems Engineer, Walmart Inc.
+1993-03 to 1995-01
+- Acquired skills in SQL Anywhere, KNIME, Informatica, SQL*Plus, and EC2.
+
+Application Developer, Merck & Co., Inc.
+1998-09 to 2000-02
+- Demonstrated adaptability and perfected skills in ReactJS, Rust, Electron, Dask, and Swift.
+
+Data Systems Engineer, Amazon.com Inc.
+2010-04 to 2015-03
+- Utilized skills in SQL Anywhere, KNIME, Informatica, SQL*Plus, and EC2.
+
+AI Engineer, JPMorgan Chase & Co.
+2003-03 to 2005-04
+- Developed expertise in TensorFlow, deep learning, H2O, natural language processing, and Large Language Models.
+
+Skills:
+- SQL Anywhere
+- KNIME
+- Informatica
+- SQL*Plus
+- EC2
+- ReactJS
+- Rust
+- Electron
+- Dask
+- Swift
+- TensorFlow
+- Deep learning
+- H2O
+- Natural language processing
+- Large Language Models
+
+References available upon request.

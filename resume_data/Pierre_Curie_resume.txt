@@ -1,0 +1,78 @@
+Pierre Curie
+
+Address: [Your Address]
+Phone: [Your Phone Number]
+Email: [Your Email Address]
+
+Summary:
+
+Results-driven professional with a diverse background in data engineering and data science. Possesses a Ph.D. in Physics from Northwestern University and a proven track record of acquiring and applying advanced technical skills in various industries. Known for adaptability and a strong ability to enhance data-driven decision-making processes. Proficient in ETL frameworks, SAS Enterprise Guide, Talend, Oracle, DynamoDB, Bayesian networks, TensorFlow, unsupervised learning, regression analysis, recommender systems, Fiori/UI5, LAMP stack, Django, Clojure, REST APIs, Spotfire, dimensional modeling, Cognos, random forest, and spectral clustering.
+
+Education:
+
+Ph.D. in Physics, Northwestern University
+Year of Graduation
+
+Experience:
+
+Data Engineering Analyst, BP plc
+May 2021 - February 2022
+- Developed expertise in ETL frameworks, SAS Enterprise Guide, Talend, Oracle, and DynamoDB.
+- Assisted in data engineering projects to optimize data processing and storage.
+
+Data Engineering Analyst, The Walt Disney Company
+April 2022 - February 2026
+- Utilized ETL frameworks, SAS Enterprise Guide, Talend, Oracle, and DynamoDB to analyze and manipulate data effectively.
+- Contributed to the development of data infrastructure systems for improved data management and reporting.
+
+Data Science, Tencent Holdings Ltd.
+April 1999 - January 2001
+- Applied Bayesian networks, TensorFlow, unsupervised learning, regression analysis, and recommender systems to extract insights from data.
+- Supported the improvement of data-driven decision-making processes.
+
+Data Science, Facebook Inc.
+July 2008 - November 2010
+- Leveraged Bayesian networks, TensorFlow, unsupervised learning, regression analysis, and recommender systems to analyze data and provide valuable insights.
+- Collaborated with cross-functional teams to enhance data-driven strategies.
+
+JavaScript Developer, The Home Depot Inc.
+April 2012 - December 2012
+- Demonstrated adaptability by acquiring proficiency in Fiori/UI5, LAMP stack, Django, Clojure, and REST APIs.
+- Contributed to the development of web applications using JavaScript technologies.
+
+Quantitative Data Analyst, Honda Motor Co., Ltd.
+December 2001 - January 2004
+- Enhanced skills in Spotfire, dimensional modeling, Cognos, random forest, and spectral clustering for effective data analysis and modeling.
+- Provided valuable insights for data-driven decision-making processes.
+
+Skills:
+
+- ETL Frameworks
+- SAS Enterprise Guide
+- Talend
+- Oracle
+- DynamoDB
+- Bayesian networks
+- TensorFlow
+- Unsupervised learning
+- Regression analysis
+- Recommender systems
+- Fiori/UI5
+- LAMP stack
+- Django
+- Clojure
+- REST APIs
+- Spotfire
+- Dimensional modeling
+- Cognos
+- Random forest
+- Spectral clustering
+
+Languages:
+
+- English (Fluent)
+- French (Fluent)
+
+References:
+
+Available upon request

@@ -1,0 +1,37 @@
+Rosalind Franklin
+
+Education:
+- Master of Science in Computer Engineering, University of California, Los Angeles
+
+Experience:
+
+Research Scientist, Honda Motor Co., Ltd.
+- April 1994 - March 1998
+- Skills acquired: tensorflow, matlab, dimensionality reduction, scikit-learn, convolutional neural networks
+
+Data Engineering Manager, Chevron Corporation
+- February 2020 - October 2022
+- Skills acquired: mpi, data warehousing, unix, google bigtable, azure
+
+PHP Developer, Cisco Systems Inc.
+- December 1997 - December 2001
+- Key skills acquired: object-oriented programming, gulp, selenium, cloud computing, transact-sql
+
+Research Scientist, Estée Lauder Companies Inc.
+- November 2022 - February 2024
+- Skills acquired: tensorflow, matlab, dimensionality reduction, scikit-learn, convolutional neural networks
+
+Skills:
+- Programming: tensorflow, matlab, object-oriented programming, gulp, selenium, transact-sql
+- Machine Learning: dimensionality reduction, scikit-learn, convolutional neural networks
+- Big Data: data warehousing, google bigtable, azure
+- Other: mpi, unix, cloud computing
+
+Summary:
+Rosalind Franklin is a versatile professional with a diverse background in computer engineering. With a strong foundation in programming and expertise in machine learning, they have excelled in various research and development roles. Their proficiency in tensorflow, matlab, and scikit-learn allows them to effectively analyze and extract insights from complex datasets. Additionally, their experience with dimensionality reduction and convolutional neural networks demonstrates their ability to solve problems utilizing advanced machine learning techniques. 
+
+As a data engineering manager, Rosalind acquired skills in managing big data platforms, including data warehousing and google bigtable. Their proficiency in mpi and unix enables them to efficiently handle large-scale data processing tasks. Moreover, their experience with azure showcases their knowledge of cloud computing technologies.
+
+Throughout their career, Rosalind has also demonstrated adaptability by successfully transitioning into roles such as a PHP developer. Their expertise in object-oriented programming and tools like gulp and selenium allowed them to develop robust and scalable web applications. Their understanding of cloud computing technologies further enhanced their ability to create highly efficient and performant solutions.
+
+With their diverse skill set and a solid educational foundation, Rosalind Franklin is well-equipped to tackle complex challenges in the field of computer engineering and data science.

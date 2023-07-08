@@ -1,0 +1,74 @@
+Queen Elizabeth II
+
+Contact Information:
+Email: queen.elizabeth2@email.com
+Phone: (123) 456-7890
+LinkedIn: www.linkedin.com/in/queen-elizabeth-ii
+
+Summary:
+Dedicated and versatile professional with a Bachelor of Science in Computer Science. Experienced in various roles within the technology and data industry. Expertise in statistical analysis, convolutional neural networks, unsupervised learning, support vector machines, CUDA, AWS, Stata, DynamoDB, GCP, performance tuning, R, dimensionality reduction, Splunk, and dimensional modeling.
+
+Education:
+Bachelor of Science in Computer Science
+University of Auckland, Auckland, New Zealand
+Graduated: 2010
+
+Work Experience:
+AI Researcher
+Samsung Electronics Co. Ltd.
+January 2010 - November 2013
+- Conducted statistical analysis, implemented convolutional neural networks, and explored unsupervised learning techniques.
+- Utilized support vector machines for classification tasks.
+- Proficient in CUDA for accelerated GPU computing.
+
+Data Lake Engineer
+Wells Fargo & Company
+February 1996 - December 1996
+- Implemented AWS services for data storage and management.
+- Utilized Stata for data analysis and manipulation.
+- Managed and optimized DynamoDB for efficient data storage.
+- Gained expertise in performance tuning for enhanced system efficiency.
+
+Data Analyst Coordinator
+Anheuser-Busch InBev SA/NV
+May 2012 - November 2016
+- Applied unsupervised learning algorithms to derive insights from large datasets.
+- Utilized R for data analysis and visualization.
+- Conducted dimensional modeling for effective data representation.
+- Managed and analyzed data using Splunk for operational intelligence.
+
+Data Lake Engineer
+Toyota Motor Corporation
+March 2016 - July 2017
+- Implemented AWS services for data management and analytics.
+- Leveraged Stata for data analysis and manipulation.
+- Managed and optimized DynamoDB for efficient data storage.
+- Utilized GCP for data processing and analysis.
+- Conducted performance tuning for optimal system performance.
+
+AI Researcher
+AT&T Inc.
+March 1994 - October 1998
+- Conducted statistical analysis to explore trends and patterns.
+- Developed and implemented convolutional neural networks for image recognition.
+- Applied unsupervised learning techniques for data clustering.
+- Utilized support vector machines for classification tasks.
+- Utilized CUDA for accelerated GPU computing.
+
+Skills:
+- Statistical Analysis
+- Convolutional Neural Networks
+- Unsupervised Learning
+- Support Vector Machines
+- CUDA
+- AWS
+- Stata
+- DynamoDB
+- GCP
+- Performance Tuning
+- R
+- Dimensionality Reduction
+- Splunk
+- Dimensional Modeling
+
+References: Available upon request.

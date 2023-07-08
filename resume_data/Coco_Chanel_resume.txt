@@ -1,0 +1,84 @@
+Coco Chanel
+
+Address: 123 Main Street, Anytown, USA
+Phone: (555) 123-4567
+Email: coco.chanel@email.com
+
+Summary:
+Results-oriented professional with a diverse background in applied mathematics, deep learning, data integration, and web development. Possesses a Master of Science in Applied Mathematics from the University of California, Santa Cruz. Demonstrated expertise in large language models, time series analysis, neural networks, and feature engineering. Skilled in various programming languages including Matlab, SQL, PSM, Hadoop, and Haskell. Proven ability to adapt to different environments and rapidly acquire new skills. Seeking opportunities as an AWS Data Engineer to leverage expertise in cloud technologies and scalable data processing.
+
+Education:
+Master of Science in Applied Mathematics
+University of California, Santa Cruz
+Graduation: May 2016
+
+Experience:
+
+Deep Learning Specialist
+Rolls-Royce Holdings plc
+October 2016 - January 2019
+- Developed and implemented large language models using neural networks.
+- Conducted time series analysis to identify patterns and insights.
+- Utilized Matlab for data analysis and feature engineering.
+
+Deep Learning Specialist
+Toyota Motor Corporation
+September 2002 - March 2006
+- Collaborated with a team to develop and enhance large language models for speech recognition systems.
+- Applied neural networks and time series analysis techniques to improve model performance.
+- Employed Matlab for data analysis and feature engineering.
+
+Data Integration Analyst
+Vodafone Group Plc
+April 2008 - May 2011
+- Led data integration projects, ensuring seamless communication between systems.
+- Utilized scrum methodologies to manage project timelines and deliverables.
+- Applied Bayesian networks and time series analysis for data forecasting and optimization.
+- Employed Cognos for data visualization and reporting.
+- Conducted dimensionality reduction techniques to improve data quality and efficiency.
+
+AWS Data Engineer
+The Walt Disney Company
+October 2016 - January 2020
+- Implemented scalable data processing solutions using Hadoop and Teradata.
+- Utilized SQL/PSM for data querying and manipulation.
+- Developed workflows using Data Factory to automate data pipelines.
+- Monitored and optimized data systems using CloudWatch.
+
+Web Developer
+American Express Company
+November 2007 - March 2012
+- Developed web scraping tools to gather data for analysis and reporting.
+- Implemented web applications using Electron, Haskell, and Linux.
+- Collaborated with cross-functional teams to deliver high-quality web solutions.
+- Demonstrated adaptability and accelerated learning in a fast-paced environment.
+
+AWS Data Engineer
+Goldman Sachs Group, Inc.
+June 2023 - September 2027
+- Designed and implemented scalable data processing solutions using Hadoop and Teradata.
+- Developed SQL/PSM queries for data retrieval and manipulation.
+- Utilized cloud technologies, including AWS Data Factory and CloudWatch, for efficient data management.
+
+Skills:
+- Deep Learning
+- Large Language Models
+- Time Series Analysis
+- Neural Networks
+- Feature Engineering
+- Matlab
+- SQL/PSM
+- Hadoop
+- Teradata
+- Cloud Technologies (AWS)
+- Scrum
+- Bayesian Networks
+- Cognos
+- Dimensionality Reduction
+- Web Scraping
+- Electron
+- Haskell
+- Linux
+- Adaptability
+
+References: Available upon request

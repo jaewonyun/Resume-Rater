@@ -1,0 +1,78 @@
+Che Guevara
+
+Address: [Insert Address Here]
+Phone: [Insert Phone Number Here]
+Email: [Insert Email Address Here]
+
+Objective:
+Highly skilled and versatile professional with a strong background in statistics and machine learning. Seeking challenging opportunities to utilize expertise in dimensionality reduction, mathematics, natural language processing (NLP), neural networks, and pandas to contribute to the success of an organization.
+
+Education:
+Master of Science in Statistics
+University of Nairobi, Nairobi, Kenya
+
+Professional Experience:
+
+Machine Learning Scientist
+Panasonic Corporation
+December 1998 - August 2003
+
+- Developed and implemented dimensionality reduction techniques to enhance machine learning models.
+- Applied mathematical concepts to solve complex problems and improve algorithm efficiency.
+- Utilized natural language processing (NLP) techniques to extract valuable insights from unstructured data.
+- Designed and trained neural networks for various applications.
+- Employed pandas library for data manipulation and analysis.
+
+Software Architect
+Airbus SE
+May 1991 - February 1994
+
+- Demonstrated adaptability and honed skills in JavaScript, OpenGL, POSIX threads, Kubernetes, and Gradle.
+- Successfully contributed to the architecture design of software systems.
+- Collaborated with cross-functional teams to develop scalable and reliable solutions.
+- Ensured compliance with industry standards and best practices.
+
+Big Data Engineer
+Nestlé S.A.
+July 1991 - October 1993
+
+- Developed and maintained data warehousing solutions for large-scale data processing.
+- Utilized Docker for containerization and efficient deployment of data processing pipelines.
+- Employed pandas library for data manipulation and analysis.
+- Leveraged Google Cloud Platform (GCP) for cloud-based data storage and processing.
+- Automated data management tasks using boto3 library.
+
+Machine Learning Scientist
+Salesforce.com, Inc.
+January 2010 - June 2013
+
+- Applied dimensionality reduction techniques to optimize machine learning models.
+- Utilized mathematical concepts to solve complex problems and improve performance.
+- Implemented natural language processing (NLP) algorithms for text analysis and sentiment analysis.
+- Designed and trained neural networks for various applications.
+- Utilized pandas library for efficient data manipulation and analysis.
+
+Skills:
+
+- Dimensionality Reduction
+- Mathematics
+- Natural Language Processing (NLP)
+- Neural Networks
+- Pandas
+- JavaScript
+- OpenGL
+- POSIX Threads
+- Kubernetes
+- Gradle
+- Docker
+- Google Cloud Platform (GCP)
+- Data Warehousing
+- boto3
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)
+- French (Proficient)
+
+References:
+Available upon request

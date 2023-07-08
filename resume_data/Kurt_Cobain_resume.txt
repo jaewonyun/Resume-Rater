@@ -1,0 +1,59 @@
+KURT COBAIN
+Email: kurtcobain@email.com | Phone: (123) 456-7890 | LinkedIn: www.linkedin.com/in/kurtcobain
+
+PROFESSIONAL SUMMARY
+Analytical and detail-oriented professional with a diverse background in statistics and data analysis. Possesses a Master of Science in Statistics from the University of Nairobi and a proven track record of success in data development and analytics roles. Skilled in utilizing various programming languages and technologies to enhance data-driven decision-making processes. Demonstrated adaptability and ability to quickly learn new skills. Strong problem-solving and communication abilities. 
+
+EDUCATION
+Master of Science in Statistics
+University of Nairobi | Nairobi, Kenya
+
+PROFESSIONAL EXPERIENCE
+
+Data Developer
+Anheuser-Busch InBev SA/NV | July 2020 - April 2023
+- Demonstrated expertise in data development using technologies such as Pig, Kubernetes, MySQL, AWS, and SQLite.
+- Responsible for extracting, transforming, and loading data into databases for analysis.
+- Developed efficient data pipelines to automate data processing tasks.
+- Collaborated with cross-functional teams to improve data infrastructure and optimize data storage.
+
+Data Developer
+Exxon Mobil Corporation | November 1997 - August 2001
+- Utilized Pig, Kubernetes, MySQL, AWS, and SQLite to develop efficient data solutions.
+- Extracted and transformed large datasets for analysis and reporting purposes.
+- Collaborated with a team of data scientists and analysts to improve data quality and accessibility.
+- Implemented data security measures to protect sensitive information.
+
+Python Developer
+Goldman Sachs Group, Inc. | June 1999 - May 2001
+- Performed Python development tasks, including web development using Fiori/UI5 and FastAPI.
+- Worked on distributed systems and utilized Scala programming language.
+- Developed and maintained robust and scalable software applications.
+- Collaborated with trading and operations teams to implement efficient solutions for data processing and analysis.
+
+Advanced Analytics Engineer
+FedEx Corporation | June 2011 - August 2015
+- Applied machine vision techniques and classification algorithms to analyze and interpret visual data.
+- Developed recommendation systems to improve operational efficiency.
+- Utilized OpenCV for image processing and analysis.
+- Collaborated with cross-functional teams to implement innovative solutions for package tracking and sorting.
+
+Senior Data Analyst
+Bank of America Corporation | December 2009 - August 2012
+- Conducted statistical analysis and utilized probability theory to identify patterns and trends in data.
+- Developed and implemented unsupervised learning algorithms for customer segmentation.
+- Leveraged SQL for data extraction and manipulation.
+- Collaborated with business stakeholders to provide actionable insights and strategies based on data analysis.
+
+SKILLS
+- Programming languages: Python, SQL, Scala
+- Technologies: Pig, Kubernetes, MySQL, AWS, SQLite, Fiori/UI5, FastAPI, OpenCV
+- Statistical analysis, probability theory
+- Machine vision, recommender systems
+- Distributed systems
+- Data extraction, transformation, and loading (ETL)
+- Data pipeline development
+- Strong problem-solving and communication abilities
+
+REFERENCES
+Available upon request

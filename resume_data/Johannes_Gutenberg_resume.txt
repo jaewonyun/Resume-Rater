@@ -1,0 +1,75 @@
+Johannes Gutenberg
+Master of Science in Software Engineering | AWS Data Engineer | Kotlin Developer | Artificial Intelligence Engineer
+
+Contact Information:
+Email: johannes.gutenberg@example.com
+Phone: (123) 456-7890
+LinkedIn: www.linkedin.com/in/johannesgutenberg
+
+Summary:
+Highly skilled and adaptable professional with a diverse background in software engineering, data engineering, Kotlin development, and artificial intelligence. Possesses a Master of Science in Software Engineering from Duke University and a strong track record of acquiring new skills and taking on challenging projects. Excel in collaborating with cross-functional teams to drive innovation and deliver exceptional results.
+
+Education:
+Master of Science in Software Engineering
+Duke University, Durham, NC
+Graduated: 2001
+
+Skills:
+- Software Engineering
+- Data Engineering
+- Kotlin Development
+- Artificial Intelligence
+- AWS
+- MariaDB
+- Google Storage
+- Snowflake
+- ETL Frameworks
+- Hadoop
+- GraphQL
+- SQL Server
+- REST APIs
+- HTML/CSS
+- Random Forest
+- Neural Networks
+- Bayesian Networks
+- Convolutional Neural Networks
+- Time Series Analysis
+
+Experience:
+
+AWS Data Engineer
+FedEx Corporation, Memphis, TN
+2000-01 - 2002-10
+- Developed and maintained data pipelines using technologies such as Mariadb, Google Storage, Snowflake, ETL frameworks, and Hadoop.
+- Collaborated with cross-functional teams to optimize data storage and retrieval processes.
+- Assisted in the implementation and management of AWS-based data solutions.
+
+AWS Data Engineer
+Microsoft Corporation, Redmond, WA
+2004-11 - 2009-04
+- Designed and implemented data processing systems using Mariadb, Google Storage, Snowflake, ETL frameworks, and Hadoop.
+- Worked closely with data scientists to transform raw data into valuable insights.
+- Contributed to the development of scalable and efficient data infrastructure.
+
+Kotlin Developer
+Prologis, Inc., San Francisco, CA
+1997-05 - 2002-03
+- Developed high-quality software solutions using Kotlin, GraphQL, SQL Server, REST APIs, and HTML/CSS.
+- Collaborated with a team to build web applications that enhanced the company's productivity and efficiency.
+- Provided technical guidance and support to junior developers.
+
+Artificial Intelligence Engineer
+Accenture plc, New York, NY
+1999-07 - 2002-12
+- Applied advanced AI techniques such as random forest, neural networks, Bayesian networks, convolutional neural networks, and time series analysis to solve complex business problems.
+- Developed AI models and algorithms to optimize various processes and improve decision-making.
+- Assisted in the deployment and integration of AI solutions within client organizations.
+
+Additional Information:
+- Strong communication and collaboration skills.
+- Proven ability to adapt to new technologies and learn quickly.
+- Passionate about innovation and staying informed about the latest industry trends.
+- Fluent in English and German.
+
+References:
+Available upon request.

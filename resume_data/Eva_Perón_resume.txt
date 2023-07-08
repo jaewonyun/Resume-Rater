@@ -1,0 +1,66 @@
+EVA PERÓN 
+
+Email: evaperon@email.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/evaperon
+
+Professional Summary
+Results-oriented professional with a diverse background in Information Technology. Skilled in computer vision engineering and big data architecture. Possesses excellent problem-solving abilities and a strong aptitude for learning new technologies. A team player with effective communication skills and the ability to adapt to fast-paced environments. 
+
+Education
+Bachelor of Science in Information Technology 
+University of Washington, Seattle, WA 
+Graduated: 2011
+
+Skills
+- Convolutional Neural Networks
+- Probability
+- Time Series Analysis
+- Support Vector Machines
+- Unsupervised Learning
+- Yarn
+- SQL Anywhere
+- Pandas
+- Google Cloud Compute Engine
+- SAS Enterprise Guide
+- Predictive Modeling
+- Random Forest
+- Spotfire
+- Mathematics
+
+Experience
+
+Starbucks Corporation, Seattle, WA
+Computer Vision Engineer, 2011-11 to 2016-07
+- Developed and implemented convolutional neural networks for image recognition tasks.
+- Utilized probability and time series analysis techniques to analyze and predict customer behavior.
+- Implemented support vector machines for classification tasks.
+- Utilized unsupervised learning algorithms for feature extraction and clustering.
+
+HSBC Holdings plc, New York, NY
+Big Data Architect, 1995-09 to 1997-02
+- Designed and implemented data processing pipelines utilizing Yarn and SQL Anywhere.
+- Analyzed and extracted insights from large datasets using Pandas and Google Cloud Compute Engine.
+- Collaborated with cross-functional teams to develop scalable big data solutions.
+- Utilized SAS Enterprise Guide for data manipulation and analysis.
+
+Procter & Gamble Co., Cincinnati, OH
+Computer Vision Engineer, 1997-02 to 1998-09
+- Developed and implemented convolutional neural networks for image recognition and analysis.
+- Utilized probability and time series analysis techniques to analyze consumer trends.
+- Implemented support vector machines for object recognition tasks.
+- Applied unsupervised learning algorithms for data clustering and anomaly detection.
+
+General Electric Company, Boston, MA
+Big Data Architect, 2017-06 to 2018-11
+- Designed and implemented big data processing frameworks using Yarn and SQL Anywhere.
+- Utilized Pandas and Google Cloud Compute Engine for data analysis and visualization.
+- Collaborated with cross-functional teams to develop scalable big data solutions.
+- Utilized SAS Enterprise Guide for advanced data manipulation and reporting.
+
+Qualcomm Inc., San Diego, CA
+Data Systems Analyst, 1990-08 to 1991-05
+- Enhanced predictive modeling techniques for data analysis and forecasting purposes.
+- Implemented random forest algorithms for improved accuracy in data classification tasks.
+- Utilized Spotfire for visualizing complex data sets.
+- Conducted mathematical analysis to identify patterns and trends in large datasets.
+
+References available upon request.

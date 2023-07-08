@@ -1,0 +1,67 @@
+Julius Caesar 
+
+Bachelor of Science in Deep Learning 
+
+Professional Experience:
+
+Software Development Engineer 
+PepsiCo Inc.   2014-08 to 2018-08 
+- Demonstrated adaptability and perfected craft in software development
+- Key skills acquired: SQL Server, OpenGL, Kotlin, Transact-SQL, T-SQL
+
+Big Data Architect 
+Twitter Inc.   1994-11 to 1997-09 
+- Acquired skills in big data architecture
+- Key skills acquired: Hive, boto3, data migration, Django, ETL
+
+Reinforcement Learning Engineer 
+Nike Inc.    2000-10 to 2001-10 
+- Experienced in reinforcement learning engineering
+- Key skills acquired: Machine learning, Machine vision, MapReduce, Bayesian networks, Collaborative filtering
+
+Data Intelligence Analyst 
+3M Company   2012-07 to 2014-05 
+- Enhanced skills as a data intelligence analyst
+- Key skills acquired: Looker, Probability, Power BI, Hypothesis testing, Clustering
+
+Reinforcement Learning Engineer 
+The Home Depot Inc.   1990-12 to 1994-09 
+- Gained expertise in reinforcement learning engineering
+- Key skills acquired: Machine learning, Machine vision, MapReduce, Bayesian networks, Collaborative filtering
+
+Big Data Architect 
+LVMH Moët Hennessy Louis Vuitton SE   1991-07 to 1993-07 
+- Acquired skills in big data architecture
+- Key skills acquired: Hive, boto3, Data migration, Django, ETL
+
+Education: 
+Bachelor of Science in Deep Learning 
+National University of Singapore
+
+Skills: 
+- SQL Server
+- OpenGL
+- Kotlin
+- Transact-SQL
+- T-SQL
+- Hive
+- boto3
+- Data migration
+- Django
+- ETL
+- Machine learning
+- Machine vision
+- MapReduce
+- Bayesian networks
+- Collaborative filtering
+- Looker
+- Probability
+- Power BI
+- Hypothesis testing
+- Clustering
+
+Contact Information:
+Email: juliuscaesar@email.com
+Phone: (123) 456-7890
+
+References available upon request.

@@ -1,0 +1,64 @@
+Resume
+
+Jim Morrison
+
+Professional with a diverse background
+
+Contact Information:
+Phone: (XXX) XXX-XXXX
+Email: jim.morrison@email.com
+Address: 123 Main Street, City, State, ZIP
+
+Education:
+Ph.D. in Mathematical Physics
+University of California, Davis
+
+Work Experience:
+
+Java Developer
+Intel Corporation
+2008-09 to 2011-08
+
+- Perfected craft and demonstrated adaptability
+- Key Skills acquired: typescript, nosql, clojure, flask, laravel
+
+Algorithm Engineer
+Amazon.com Inc.
+1997-05 to 2002-04
+
+- Acquired skills in bayesian networks, recommender systems, text mining, dimensionality reduction, keras
+
+ETL Developer
+Mastercard Incorporated
+2005-01 to 2008-01
+
+- Acquired skills in hbase, oltp, ec2, sql, glue
+
+Data Analyst
+Tesla Inc.
+1992-09 to 1995-09
+
+- Enhanced skills in random forest, tableau, web scraping, agile, predictive modeling
+
+Algorithm Engineer
+Toyota Motor Corporation
+1990-03 to 1993-11
+
+- Acquired skills in bayesian networks, recommender systems, text mining, dimensionality reduction, keras
+
+ETL Developer
+AT&T Inc.
+1994-04 to 1998-07
+
+- Acquired skills in hbase, oltp, ec2, sql, glue
+
+Skills:
+
+- Programming Languages: Java, Typescript, Clojure, SQL
+- Databases: NoSQL, HBase
+- Frameworks: Flask, Laravel
+- Machine Learning: Bayesian Networks, Recommender Systems, Text Mining, Dimensionality Reduction, Keras
+- Data Analysis: Tableau, Random Forest, Web Scraping
+- Other: ETL, OLTP, EC2, Agile, Predictive Modeling
+
+References available upon request.

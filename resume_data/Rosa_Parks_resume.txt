@@ -1,0 +1,51 @@
+Rosa Parks
+
+Contact Information:
+Phone: XXX-XXX-XXXX
+Email: rosaparks@email.com
+LinkedIn: linkedin.com/in/rosaparks
+
+Education:
+Bachelor of Science in Information Technology
+Columbia University
+
+Professional Experience:
+
+Data Integration Engineer
+Bayer AG | 2005-07 to 2008-07
+- Developed expertise in data integration tools and techniques.
+- Utilized skills in aurora, azure, data lake, oracle, and pandas to successfully integrate and manage data.
+- Collaborated with cross-functional teams to ensure seamless integration processes.
+
+Data Integration Engineer
+Qualcomm Inc. | 2018-05 to 2021-01
+- Played a key role in data integration projects, focusing on efficiency and accuracy.
+- Utilized aurora, azure, data lake, oracle, and pandas to integrate data from various sources.
+- Collaborated with teams to analyze data integration requirements and implement effective solutions.
+
+iOS Developer
+Microsoft Corporation | 2005-04 to 2005-12
+- Demonstrated adaptability and expertise in iOS development.
+- Utilized shell scripting, ruby, lamp stack, nodejs, and r to develop innovative and user-friendly applications.
+- Successfully completed projects within tight deadlines, meeting client specifications.
+
+Deep Learning Engineer
+McDonald's Corporation | 2011-03 to 2012-04
+- Developed skills in deep learning algorithms and techniques.
+- Utilized NLP, CUDA, time series analysis, probability, and regression analysis to solve complex problems.
+- Collaborated with a team of experts to design and implement deep learning models for business applications.
+
+Skills:
+- Data integration: Aurora, Azure, Data Lake, Oracle, Pandas
+- iOS development: Shell scripting, Ruby, LAMP stack, NodeJS, R
+- Deep learning: NLP, CUDA, Time series analysis, Probability, Regression analysis
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+Certifications:
+- Certified Data Professional (CDP)
+
+References:
+Available upon request

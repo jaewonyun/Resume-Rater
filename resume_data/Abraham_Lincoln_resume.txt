@@ -1,0 +1,66 @@
+Abraham Lincoln
+
+        Professional Summary:
+        Accomplished and highly skilled professional with a background in computer engineering and extensive experience in data development, analysis, and software testing. Possesses a Ph.D. in Computer Engineering from Dartmouth College and a proven track record of success in various industries. Demonstrates adaptability and an ability to acquire new skills quickly. Proficient in a wide range of technical tools and languages.
+
+        Education:
+        Ph.D. in Computer Engineering
+        Dartmouth College
+
+        Skills:
+        - Athena
+        - Google Cloud Spanner
+        - Pandas
+        - MPI
+        - EMR
+        - Kibana
+        - Statistical Analysis
+        - Tidyverse
+        - Probability
+        - Web Scraping
+        - SQL Server
+        - Shell Scripting
+        - Ruby on Rails
+        - Pygame
+        - Matplotlib
+        - TensorFlow
+        - Dimensionality Reduction
+        - Natural Language Processing
+        - Clustering
+
+        Professional Experience:
+
+        Data Developer
+        Mastercard Incorporated
+        July 1994 - January 1999
+        - Developed data solutions utilizing Athena, Google Cloud Spanner, Pandas, MPI, and EMR.
+
+        Data Developer
+        General Motors Company
+        September 1995 - November 1998
+        - Acquired proficiency in Athena, Google Cloud Spanner, Pandas, MPI, and EMR.
+
+        Data Analyst Manager
+        United Parcel Service, Inc.
+        September 1997 - February 2001
+        - Led a team in performing statistical analysis, utilizing Kibana, Tidyverse, and web scraping techniques.
+        - Applied probability theory to support decision-making processes.
+
+        Software Test Engineer
+        Tencent Holdings Ltd.
+        April 2007 - April 2011
+        - Conducted extensive software testing utilizing SQL Server, shell scripting, Ruby on Rails, web scraping, and Pygame.
+        - Showcased adaptability and demonstrated proficiency in multiple languages and tools.
+
+        Quantitative Analyst
+        Abbott Laboratories
+        July 2005 - March 2007
+        - Applied advanced analytics techniques, including Matplotlib, TensorFlow, dimensionality reduction, natural language processing, and clustering.
+        - Utilized data-driven insights to drive business decisions.
+
+        Quantitative Analyst
+        Novartis AG
+        December 2017 - September 2019
+        - Continued to leverage skills in Matplotlib, TensorFlow, dimensionality reduction, natural language processing, and clustering to provide valuable insights for the organization.
+
+        References available upon request.

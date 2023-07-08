@@ -1,0 +1,85 @@
+Cleopatra
+
+Professional Summary:
+
+Highly skilled and adaptable professional with a diverse background in information technology. Possesses a Master of Science in Information Technology from the University of Montreal. Demonstrated expertise in various technical areas, including Big Data engineering, Ruby development, deep learning engineering, and customer data analysis. Strong proficiency in utilizing programming languages and tools such as Elasticsearch, Alteryx, Sybase, SQL/PSM, Pandas, Dask, CUDA, PHP, OpenGL, RabbitMQ, Logistic Regression, Singular Value Decomposition, Clustering, Time Series Analysis, SQL, Kibana, Weka, Scrum, and dimensional modeling. Proven ability to acquire new skills and knowledge efficiently.
+
+Education:
+
+Master of Science in Information Technology
+University of Montreal
+Graduated: [Year]
+
+Experience:
+
+Big Data Engineer
+Spotify Technology S.A.
+[Year]-[Year]
+
+Roles:
+- Utilized skills in Elasticsearch, Alteryx, Sybase, SQL/PSM, and Pandas to optimize and manage big data for Spotify.
+- Contributed to the development and maintenance of efficient data pipelines and workflows.
+- Collaborated with cross-functional teams to improve data accessibility and quality.
+- Applied knowledge in Elasticsearch, Alteryx, Sybase, SQL/PSM, and Pandas to drive insights and solve complex data challenges.
+
+Ruby Developer
+Lockheed Martin Corporation
+[Year]-[Year]
+
+Roles:
+- Demonstrated adaptability and excellence in Ruby development.
+- Employed Dask, CUDA, PHP, OpenGL, and RabbitMQ to develop innovative software solutions.
+- Collaborated with a team of developers to enhance and maintain critical software systems.
+- Actively participated in code reviews and implemented industry best practices.
+
+Deep Learning Engineer
+Hyundai Motor Company
+[Year]-[Year]
+
+Roles:
+- Acquired expertise in logistic regression, singular value decomposition, Pandas, clustering, and time series analysis.
+- Developed and maintained deep learning models for various applications.
+- Conducted data analysis and evaluation to improve model performance.
+- Collaborated with cross-functional teams to integrate deep learning technologies into existing systems.
+
+Customer Data Analyst
+Merck & Co., Inc.
+[Year]-[Year]
+
+Roles:
+- Utilized SQL, Kibana, Weka, Scrum, and dimensional modeling to analyze customer data and generate actionable insights.
+- Collaborated with marketing and sales teams to optimize customer targeting strategies.
+- Participated in agile scrum methodologies to ensure timely delivery of analytical solutions.
+- Developed reports and dashboards to present key findings to stakeholders.
+
+Big Data Engineer
+HSBC Holdings plc
+[Year]-[Year]
+
+Roles:
+- Acquired comprehensive skills in Elasticsearch, Alteryx, Sybase, SQL/PSM, and Pandas.
+- Implemented efficient and scalable big data solutions for HSBC.
+- Performed data cleansing, transformation, and enrichment processes.
+- Collaborated with stakeholders to understand data requirements and deliver relevant insights.
+
+Deep Learning Engineer
+Tesla Inc.
+[Year]-[Year]
+
+Roles:
+- Utilized logistic regression, singular value decomposition, Pandas, clustering, and time series analysis to develop deep learning solutions for Tesla.
+- Conducted data exploration, preprocessing, and feature engineering to enhance model performance.
+- Collaborated with cross-functional teams to integrate deep learning algorithms into Tesla's products and services.
+- Participated in regular code reviews and implemented model enhancements.
+
+Skills:
+
+- Programming Languages: Python, Ruby, SQL, PHP
+- Big Data Technologies: Elasticsearch, Alteryx, Sybase, SQL/PSM, Dask, Pandas
+- Deep Learning: Logistic Regression, Singular Value Decomposition, Clustering, Time Series Analysis
+- Tools and Frameworks: CUDA, Pandas, Dask, PHP, OpenGL, RabbitMQ, Kibana, Weka, Scrum, Dimensional Modeling
+- Analytical and Problem-Solving Skills
+- Strong Collaboration and Communication Abilities
+- Adaptability and Continuous Learning
+
+References available upon request.

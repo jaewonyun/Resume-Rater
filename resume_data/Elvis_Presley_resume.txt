@@ -1,0 +1,75 @@
+Resume
+
+Elvis Presley
+Email: elvis.presley@email.com
+Phone: (123) 456-7890
+LinkedIn: www.linkedin.com/in/elvis-presley
+
+Summary
+Professional with a Master of Science in Artificial Intelligence from Seoul National University and a diverse background in data migration, data science engineering, data intelligence analysis, and software engineering management. Skilled in various technologies and methodologies such as regression analysis, time series analysis, TensorFlow, NLP, neural networks, and more. Demonstrated adaptability and proficiency in multiple industries and contexts. 
+
+Education
+Master of Science in Artificial Intelligence
+Seoul National University, Seoul, South Korea
+
+Skills
+- Regression Analysis
+- Time Series Analysis
+- TensorFlow
+- NLP
+- Neural Networks
+- Impala
+- Google Cloud Compute Engine
+- Data Lake Analytics
+- EC2
+- PySpark
+- Dimensional Modeling
+- Looker
+- Dimensionality Reduction
+- Statistical Analysis
+- Spotfire
+- Fiori/UI5
+- CloudWatch
+- Haskell
+- Lambda
+- Django
+
+Experience
+
+Data Science Engineer | Honda Motor Co., Ltd. | 2022-03 to 2024-08
+- Utilized regression analysis, time series analysis, TensorFlow, NLP, and neural networks to solve complex data problems.
+- Collaborated with cross-functional teams to develop and implement data-driven solutions.
+- Conducted statistical analysis to extract meaningful insights from large datasets.
+
+Data Science Engineer | Microsoft Corporation | 2018-04 to 2022-04
+- Applied regression analysis, time series analysis, TensorFlow, NLP, and neural networks in various projects.
+- Developed and optimized machine learning models for predictive analysis.
+- Worked closely with stakeholders to understand business requirements and deliver actionable insights.
+
+Data Intelligence Analyst | Nestlé S.A. | 2011-12 to 2014-03
+- Conducted dimensional modeling and statistical analysis to uncover patterns and trends.
+- Utilized tools such as Looker and Spotfire for data visualization and reporting.
+- Implemented dimensionality reduction techniques to improve data processing efficiency.
+
+Software Engineering Manager | Lockheed Martin Corporation | 1995-09 to 1998-07
+- Led a team of software engineers in the development and maintenance of mission-critical applications.
+- Implemented Fiori/UI5, CloudWatch, Haskell, and Lambda technologies to enhance system performance and functionality.
+- Collaborated with cross-functional teams to ensure software quality and adherence to project deadlines.
+
+Data Migration Engineer | Rolls-Royce Holdings plc | 1998-05 to 2002-12
+- Managed data migration projects, ensuring smooth and efficient transfer of data.
+- Acquired skills in Impala, Google Cloud Compute Engine, Data Lake Analytics, EC2, and PySpark.
+- Assisted in data analysis and troubleshooting to identify and resolve issues.
+
+Additional Skills
+- Excellent problem-solving and analytical abilities.
+- Strong communication and collaboration skills.
+- Proficient in Python, R, SQL, and related programming languages.
+- Knowledgeable in data manipulation and visualization tools such as Tableau and Power BI.
+
+Languages
+- English (Fluent)
+- Korean (Fluent)
+
+References
+Available upon request

@@ -1,0 +1,59 @@
+**OPRAH WINFREY**
+
+**Data Engineering and Data Mining Professional**
+
+Email: oprah.winfrey@example.com
+Phone: (123) 456-7890
+Location: [City, State]
+
+**Summary**
+Highly skilled and adaptable professional with a diverse background in data engineering and data mining. Possessing a Master of Science in Nuclear Physics from the University of Buenos Aires, with extensive experience in various industries. Excels in utilizing cutting-edge technologies to extract insights from complex datasets. Excellent problem-solving skills and ability to effectively communicate findings to non-technical stakeholders.
+
+**Education**
+- Master of Science in Nuclear Physics, University of Buenos Aires, Buenos Aires, Argentina
+
+**Professional Experience**
+
+**Data Engineering Consultant** | Marriott International, Inc. | 1998-11 to 2003-07
+- Leveraged expertise in data lake analytics, data factory, data lake, data munging, and S3 to provide valuable insights for business decision-making.
+- Collaborated with cross-functional teams to optimize data processing pipelines and improve overall data quality and efficiency.
+
+**Data Mining Engineer** | GlaxoSmithKline plc | 2000-08 to 2005-07
+- Applied logistic regression, H2O, support vector machines, classification, and collaborative filtering techniques to analyze large-scale pharmaceutical datasets.
+- Led data mining projects to discover patterns and trends in complex data, contributing to advancements in drug discovery and development.
+
+**Data Engineering Consultant** | Samsung Electronics Co. Ltd. | 2002-02 to 2004-01
+- Played a key role in implementing data lake analytics, data factory, data lake, data munging, and S3 technologies, enhancing data processing capabilities.
+- Assisted in the development and optimization of data pipelines, enabling efficient data storage, retrieval, and analysis.
+
+**Data Mining Engineer** | Volkswagen AG | 1996-05 to 1999-02
+- Utilized logistic regression, H2O, support vector machines, classification, and collaborative filtering techniques to analyze automotive industry datasets.
+- Contributed to the development of predictive models for quality control, resulting in improved manufacturing processes and customer satisfaction.
+
+**Full Stack Developer** | Starbucks Corporation | 1992-01 to 1993-02
+- Demonstrated adaptability and perfected skills in Symfony, PHP, LAMP stack (Linux, Apache, MySQL, PHP), Lambda, and JavaScript.
+- Collaborated with a team to deliver high-quality web and application development projects, contributing to enhanced user experiences.
+
+**Skills**
+- Data Lake Analytics
+- Data Factory
+- Data Lake
+- Data Munging
+- S3
+- Logistic Regression
+- H2O
+- Support Vector Machines
+- Classification
+- Collaborative Filtering
+- Symfony
+- PHP
+- LAMP Stack
+- Lambda
+- JavaScript
+
+**Languages**
+- English (Fluent)
+- Spanish (Fluent)
+
+**References**
+Available upon request

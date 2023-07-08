@@ -1,0 +1,85 @@
+DALAI LAMA
+
+Professional with a diverse background and a Ph.D. in Quantum Physics
+
+CONTACT INFORMATION
+Phone: (123) 456-7890
+Email: dalailama@email.com
+LinkedIn: www.linkedin.com/in/dalailama
+
+SUMMARY
+
+Quantum Physics Ph.D. holder with a strong background in AI engineering and database engineering. Skilled in various technologies and frameworks such as Keras, Natural Language Processing (NLP), NLTK, Singular Value Decomposition (SVD), Pandas, PySpark, SQL/PSM, EMR, Hive, and Azure. Proven expertise in analyzing HR data, regression analysis, mathematical modeling, and unsupervised learning. Consistently achieved success in various positions within reputable organizations.
+
+EDUCATION
+
+Ph.D. in Quantum Physics
+McGill University, Montreal, QC
+Year of Graduation: 1990
+
+PROFESSIONAL EXPERIENCE
+
+AI Engineer
+Anheuser-Busch InBev SA/NV
+1999-07 to 2003-10
+
+- Developed and implemented AI algorithms using Keras and NLP techniques.
+- Utilized Natural Language Toolkit (NLTK) for text analysis and processing.
+- Conducted data analysis using Singular Value Decomposition (SVD) and Pandas library.
+
+Database Engineer
+Procter & Gamble Co.
+1995-09 to 1999-09
+
+- Designed and managed databases using PySpark and SQL/PSM.
+- Deployed EMR (Elastic MapReduce) for efficient data processing.
+- Implemented data workflows and analytics using Hive and Azure.
+
+HR Data Analyst
+Goldman Sachs Group, Inc.
+1990-03 to 1994-10
+
+- Analyzed HR data to provide key insights for decision-making processes.
+- Proficiently used SQL for data extraction and manipulation.
+- Visualized data using Matplotlib and performed regression analysis.
+
+Database Engineer
+Costco Wholesale Corporation
+2013-11 to 2017-06
+
+- Developed robust database systems using PySpark and SQL/PSM.
+- Utilized EMR for scalable and efficient data processing.
+- Utilized Hive and Azure for data analytics and management.
+
+AI Engineer
+Berkshire Hathaway Inc.
+2019-08 to 2022-12
+
+- Utilized Keras and NLP techniques for developing AI models.
+- Applied NLTK for advanced text processing and analysis.
+- Leveraged Singular Value Decomposition (SVD) and Pandas for data analysis.
+
+SKILLS
+
+- Programming: Python, SQL
+- Machine Learning: Keras, PySpark, NLTK, Pandas
+- Databases: SQL/PSM, EMR, Hive, Azure
+- Data Analysis: NLP, Regression Analysis, Unsupervised Learning
+- Visualization: Matplotlib
+
+ACHIEVEMENTS
+
+- Published research papers on Quantum Physics in reputable journals.
+- Received accolades for innovative AI solutions at Anheuser-Busch InBev SA/NV.
+- Recognized for outstanding performance in database management at Procter & Gamble Co.
+- Presented findings on HR data analysis at industry conferences during Goldman Sachs tenure.
+- Successfully implemented efficient database systems at Costco Wholesale Corporation.
+- Contributed to the development of cutting-edge AI models at Berkshire Hathaway Inc.
+
+LANGUAGES
+
+- Fluent in English and Tibetan
+
+REFERENCES
+
+Available upon request

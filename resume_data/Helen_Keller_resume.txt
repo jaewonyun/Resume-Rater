@@ -1,0 +1,54 @@
+Helen Keller
+Mobile: 123-456-7890 | Email: helenkeller@email.com | LinkedIn: linkedin.com/in/helenkeller
+
+Summary
+Professional with a diverse background in web development and data science. Demonstrated adaptability throughout career, gaining expertise in various technologies and industries. Strong skills in rest APIs, Unity, performance tuning, T-SQL, Ruby, support vector machines, OpenCV, feature engineering, MapReduce, machine learning, Looker, Matplotlib, Excel, unsupervised learning, predictive modeling, Talend, Impala, Databricks, Kinesis, and OLTP.
+
+Education
+Master of Science in Data Science, Peking University
+- Graduated in 2004
+
+Experience
+
+Web Developer, Novartis AG
+2003-02 to 2004-09
+- Perfected craft in web development and demonstrated adaptability
+- Utilized rest APIs, Unity, performance tuning, T-SQL, and Ruby to deliver high-quality solutions
+
+Data Science, Goldman Sachs Group, Inc.
+2016-06 to 2021-03
+- Developed expertise in support vector machines, OpenCV, feature engineering, MapReduce, and machine learning
+- Worked on various data science projects, contributing to data-driven decision-making processes
+
+Customer Data Analyst, Visa Inc.
+2016-08 to 2017-12
+- Enhanced skills in Looker, Matplotlib, Excel, unsupervised learning, and predictive modeling
+- Analyzed customer data to derive insights and drive business strategies
+
+Real-time Data Engineer, The Walt Disney Company
+2009-11 to 2012-05
+- Acquired skills in Talend, Impala, Databricks, Kinesis, and OLTP
+- Designed and implemented real-time data processing systems to support business operations
+
+Skills
+- Programming Languages: Ruby, T-SQL
+- Web Development: REST APIs, Unity
+- Data Science: Support Vector Machines, OpenCV, Feature Engineering, MapReduce, Machine Learning
+- Data Analysis: Looker, Matplotlib, Excel, Unsupervised Learning, Predictive Modeling
+- Big Data Technologies: Talend, Impala, Databricks, Kinesis
+- Database Management: OLTP
+
+Personal Projects
+- Developed a web application using Ruby on Rails for tracking personal fitness goals and progress
+- Created a machine learning model for predicting stock market trends using Python and support vector machines
+
+Certifications
+- Certified Data Scientist, Peking University, 2004
+
+Languages
+- English (Fluent)
+- Chinese (Fluent)
+- French (Basic)
+
+References
+Available upon request

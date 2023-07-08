@@ -1,0 +1,75 @@
+Nikola Tesla
+
+Address: [Your Address]
+Phone: [Your Phone Number]
+Email: [Your Email Address]
+
+Summary
+Results-driven professional with a diverse background and a Bachelor of Science in Physics. Experienced in data engineering, visualization analysis, and data science. Skilled in various technologies and tools including scalable systems, SQL, solr, unix, spectral clustering, predictive modeling, h2o, natural language processing, and more. Adaptive and quick learner, able to thrive in fast-paced environments.
+
+Education
+Bachelor of Science in Physics,
+University of British Columbia,
+Vancouver, BC, Canada (20XX-20XX)
+
+Experience
+
+Data Engineering Specialist,
+Nike Inc.,
+2021-01 to 2024-04
+
+- Developed scalable systems and implemented SQL anywhere and Solr to optimize data retrieval and analysis.
+- Utilized SQL*Plus and Unix to maintain and troubleshoot databases effectively.
+- Demonstrated proficiency in managing database systems and ensuring data accuracy and integrity.
+
+Data Visualization Analyst,
+Citigroup Inc.,
+2016-10 to 2019-01
+
+- Conducted spectral clustering and statistical analysis to identify patterns and trends in data.
+- Utilized probability and predictive modeling techniques to support data-driven decision making.
+- Applied web scraping methodologies to gather relevant data for analysis.
+- Created visually appealing and informative data visualizations to communicate insights effectively.
+
+Data Scientist,
+eBay Inc.,
+1998-01 to 2001-11
+
+- Utilized H2O and Keras frameworks to develop machine learning models for predictive analysis.
+- Implemented natural language processing techniques to extract meaningful insights from unstructured text data.
+- Conducted time series analysis to forecast market trends and make informed business recommendations.
+- Utilized Bayesian networks to model complex dependencies and improve decision-making processes.
+
+Kotlin Developer,
+Tesla Inc.,
+2022-10 to 2023-12
+
+- Developed and maintained Kotlin-based applications, ensuring optimal performance and efficiency.
+- Utilized OpenMP to parallelize computations and improve application speed.
+- Proficient in Ruby and the Lamp stack, developing web applications with robust functionality.
+- Maintained Linux-based systems and utilized Maven for project management.
+
+Skills
+- Data Engineering
+- SQL
+- Solr
+- Unix
+- Spectral Clustering
+- Probability
+- Statistical Analysis
+- Predictive Modeling
+- Web Scraping
+- H2O
+- Keras
+- Natural Language Processing
+- Time Series Analysis
+- Bayesian Networks
+- Kotlin
+- OpenMP
+- Ruby
+- Lamp stack
+- Linux
+- Maven
+
+References
+Available upon request.

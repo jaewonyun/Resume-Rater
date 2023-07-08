@@ -1,0 +1,79 @@
+George Orwell
+        
+        Professional Profile:
+        
+        A versatile and skilled professional with a diverse background in data science and engineering. Possessing a Bachelor of Science in Condensed Matter Physics from the University of Tokyo, I have honed my expertise through various positions held in esteemed organizations. With a strong focus on machine learning, natural language processing, and data management, I have consistently demonstrated adaptability and proficiency in delivering exceptional results.
+
+        Work Experience:
+
+        Data Science Analyst, PayPal Holdings, Inc.
+        2011-05 to 2014-02
+
+        - Acquired expertise in machine vision, natural language processing, and data analysis.
+        - Utilized tools such as scikit-learn, numpy, and machine learning algorithms to derive actionable insights.
+        
+        Golang Developer, JPMorgan Chase & Co.
+        1997-07 to 2000-10
+
+        - Demonstrated adaptability and perfected skills in agile development methodologies.
+        - Developed applications using Golang, AWS, and Unity for optimal performance.
+        
+        Data Engineering Lead, Volkswagen AG
+        2022-08 to 2024-08
+
+        - Led data engineering initiatives, utilizing tools like Talend and Docker for efficient data processing.
+        - Managed databases including PL/SQL and Google Bigtable, ensuring streamlined data management.
+        
+        Data Management Analyst, LVMH Moët Hennessy Louis Vuitton SE
+        1992-08 to 1995-05
+
+        - Enhanced skills in agile development, SQL, and mathematical modeling.
+        - Conducted dimensionality reduction techniques and worked with Tidyverse for data manipulation.
+        
+        Data Science Analyst, Volvo Group
+        2017-05 to 2018-12
+
+        - Employed machine vision and natural language processing techniques to extract valuable insights.
+        - Utilized scikit-learn, numpy, and machine learning algorithms for predictive modeling.
+        
+        Data Engineering Lead, BlackRock, Inc.
+        2012-04 to 2015-04
+
+        - Spearheaded data engineering projects, leveraging Talend, Docker, and PL/SQL.
+        - Managed databases including Google Bigtable and Sybase, ensuring optimal data storage and retrieval.
+
+        Skills:
+
+        - Machine vision
+        - Natural language processing
+        - Scikit-learn
+        - NumPy
+        - Machine learning
+        - Golang
+        - Agile development
+        - AWS
+        - TypeScript
+        - Tkinter
+        - Unity
+        - Talend
+        - Docker
+        - PL/SQL
+        - Google Bigtable
+        - Sybase
+        - SQL
+        - Mathematics
+        - Dimensionality reduction
+        - Tidyverse
+
+        Education:
+
+        Bachelor of Science in Condensed Matter Physics
+        University of Tokyo
+
+        Contact Details:
+
+        Phone: [Insert Phone Number]
+        Email: [Insert Email Address]
+        LinkedIn: [Insert LinkedIn URL]
+
+        Note: References available upon request.
