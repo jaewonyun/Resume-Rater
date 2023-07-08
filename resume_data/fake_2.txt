@@ -1,0 +1,54 @@
+[Your Name]
+[Address]
+[City, State, ZIP]
+[Phone Number]
+[Email Address]
+
+Objective:
+Highly skilled software engineer with expertise in AWS, JavaScript, Python, and Apache Airflow, seeking challenging opportunities to apply my knowledge and contribute to innovative software development projects.
+
+Education:
+Master of Science in Economics
+[University Name], [City, State]
+[Year of Graduation]
+
+Skills:
+
+Proficient in AWS, including EC2, S3, Lambda, and CloudFormation
+Strong knowledge of JavaScript frameworks such as React and Node.js
+Extensive experience in Python programming and libraries like Django and Flask
+Familiarity with Apache Airflow for creating and managing workflows
+Solid understanding of software development methodologies and best practices
+Strong problem-solving and analytical skills
+Work Experience:
+
+Software Engineer
+XYZ Tech Solutions, [City, State]
+[Dates]
+
+Collaborated with cross-functional teams to develop and deploy scalable web applications on AWS infrastructure, resulting in a 30% improvement in application performance.
+Designed and implemented RESTful APIs using Python and Django, facilitating seamless data exchange between multiple systems.
+Developed custom JavaScript components and integrated them with existing applications, enhancing the user experience and reducing page load times.
+Implemented Apache Airflow workflows to automate data processing tasks, reducing manual effort by 50% and improving data accuracy.
+Conducted code reviews and provided constructive feedback to ensure code quality and adherence to best practices.
+Worked closely with stakeholders to gather requirements, identify technical challenges, and propose effective solutions within project timelines.
+Collaborated with QA team to identify and resolve software defects, ensuring high-quality deliverables.
+Software Developer Intern
+ABC Software Solutions, [City, State]
+[Dates]
+
+Assisted in the development of a web-based application using JavaScript, React, and Node.js, resulting in improved user engagement and increased customer satisfaction.
+Conducted unit testing and bug fixing to ensure the stability and functionality of the application.
+Collaborated with the development team to integrate third-party APIs and enhance the application's functionality.
+Assisted in the implementation of AWS services, including EC2 instances and S3 buckets, for application deployment and storage.
+Projects:
+
+E-commerce Platform
+
+Developed a scalable e-commerce platform using Python, Django, and AWS, handling high traffic and ensuring secure transactions.
+Integrated various payment gateways and shipping APIs to streamline the order fulfillment process.
+Implemented a recommendation engine using machine learning algorithms to enhance personalized product suggestions.
+Inventory Management System
+
+Led the development of an inventory management system using JavaScript, React, and AWS, resulting in improved inventory tracking and reduced operational costs.
+Integrated barcode scanning functionality for efficient stock management and automated replenishment alerts.
