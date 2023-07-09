@@ -15,17 +15,17 @@ resumedb = Chroma(persist_directory="chroma/full_resume/",
 # openApiKey = st.secrets["OPENAI_API_KEY"]
 # openai.api_key = openApiKey
 
+robot = Image.open(r'images\Ai_robot_hiring_manager.png')
+
 main_tab, readme_tab = st.tabs(["Main", "Readme"])
-
-
-st.title("Resume Rater")
 
 
 # show_resume = st.radio('show full resume', ['yes', 'no'])
 with main_tab:
-
+    st.title("Resume Rater")
     with st.sidebar:
-        # st.image(image, width=100)
+
+        st.image(robot)
         st.title('Toggle options')
         # st.write('Select the options to get the best match for your job description')
         matchtype = st.radio('Select match type', ['resume', 'skills', 'work experience'])
