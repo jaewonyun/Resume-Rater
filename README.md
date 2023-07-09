@@ -2,6 +2,9 @@
 
 The Resume-Rater-Engine is a robust solution that leverages the power of artificial intelligence and machine learning to streamline the recruitment process. It creates, categorizes, and scores resumes based on employer queries and job descriptions.
 
+![Diagram](./images/flowdiagram.png)
+
+
 ## Workflow:
 
 1. **Resume Creation**: Use ChatGPT to generate at least 66 unique resumes.
