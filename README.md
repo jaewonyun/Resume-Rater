@@ -1,62 +1,35 @@
 # Resume-Rater-Engine
 
-1. Create at least 100 resumes from ChatGPT - Jae
+The Resume-Rater-Engine is a robust solution that leverages the power of artificial intelligence and machine learning to streamline the recruitment process. It creates, categorizes, and scores resumes based on employer queries and job descriptions.
 
-2. Extract from resumes - John/Jae 
- --> skills list
- --> job experience
- --> whatever else...
+## Workflow:
 
-3. Put them all in vectordb - John (Chroma)
- - whole resume
- - skill list
- - job experience
+1. **Resume Creation**: Use ChatGPT to generate at least 100 unique resumes.
 
-4. Perform similarity search based on employer query
-- rank or score resumes with concepts below
+2. **Data Extraction**: Parse the generated resumes to extract valuable data such as skills list, job experience, among others.
 
-5. Deploy in streamlit app???
+3. **Data Storage**: Store the extracted data in VectorDB, including the entire resume, skills list, and job experience.
 
-6. Beyond the hackathon demo (data engineering product)
-- people send resume to employer, store resumes in cloud
-- batch processing, with AWS lambda fn or Airflow
-- allow employers to use this database via different processes below
+4. **Advanced Search and Ranking**: Allow employers to provide a rubric or assign weights to prioritize certain skills, and then rank resumes based on this input. The ranking system will search the entire resume or specific sections for matching skills.
 
+5. **Deployment**: Explore the option of deploying the solution in a Streamlit application.
 
-## Concept #1
-Employer: "Filter all candidates with X"
-Assistant: "Sure, here are the list of candidates with requirement X?
-~~ Pandas or SQL agent
+## Future Enhancements:
 
-## Concept #2
-Employer enter their job description
-Gives score(s) for each resume
-Then employer can use the scores for hiring
+The vision is to evolve this project into a comprehensive data engineering product with the following enhancements:
 
-## Concept #3
-Employer gives rubric, or weights to emphasize skills. 
-### Example
-Essential: AWS, SQL, python
-Nice-to-have: Scala, ....
+1. **Resume Submission and Storage**: Allow individuals to submit resumes directly to employers and store these resumes in the cloud.
 
-Make a long list of all possible tech skills --> 100
-our vectors have to be 100 dim
-- Programming language
-- Cloud
-- Tools: Analytics, ML, DL, 
+2. **Batch Processing**: Implement batch processing with AWS Lambda function or Airflow.
 
-Bullshit skills: "Critical thinking", "Scrum/agile methodology"
+3. **Employer Interface**: Enable employers to interact with this resume database through several processes described below.
 
-JS = [skill_1, skill_2, ...]
-W = [w1, w2, .... 0.1]
-CS = [0,  ....    R]
+4. **Knowledge Graph Integration with Neo4j**: Utilize a knowledge graph to connect diverse pieces of information in the resume database. This will enable more advanced search capabilities, such as finding the shortest distance between skillsets or using graph embeddings to map similarities among resumes.
 
-Employer input:
-skills : [s1, s2, s3 ... ]
-weights : [w1, w2, w3 ... ]
+5. **AI Filtering**: Employers can specify a requirement (e.g., a particular skill), and the system will provide a list of candidates who meet that requirement.
 
-search entire resume for matching skills
-OR search only job experience for matching skills
+6. **AI Scoring**: Allow employers to input their job description and provide a score for each resume. This score will assist employers during the hiring process.
 
-dot(W, CS) = score 
-norm_score = 5*score/max(score)
+### Note: 
+
+"Bullshit skills" like "Critical Thinking", "Scrum/agile methodology" are regarded as less concrete compared to technical skills like knowledge of specific programming languages or tools. These "soft skills" might be less useful when distinguishing among highly technical roles. However, this does not disregard their value in the broader context of job performance.
