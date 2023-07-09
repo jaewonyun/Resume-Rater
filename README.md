@@ -4,7 +4,7 @@ The Resume-Rater-Engine is a robust solution that leverages the power of artific
 
 ## Workflow:
 
-1. **Resume Creation**: Use ChatGPT to generate at least 100 unique resumes.
+1. **Resume Creation**: Use ChatGPT to generate at least 66 unique resumes.
 
 2. **Data Extraction**: Parse the generated resumes to extract valuable data such as skills list, job experience, among others.
 
